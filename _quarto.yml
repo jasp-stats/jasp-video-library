@@ -1,19 +1,21 @@
 project:
-  type: website
+  type: book
+  output-dir: docs
 
-website:
-  title: "jasp-video-library"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+book:
+  title: "The JASP Video Library"
+  author: "The JASP Team"
+  chapters:
+    - index.qmd
+    - output.md
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
+    theme: bootstrap
+  pdf:
+    documentclass: scrreprt
 
 editor: visual
+new_session: no
+url_sanitize: false
 
