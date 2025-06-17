@@ -1,191 +1,282 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "The JASP Video Library",
+    "objectID": "output.html",
+    "href": "output.html",
+    "title": "2  JASP GIF Library",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "2.1 0_Getting_Started",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
+    ]
   },
   {
     "objectID": "output.html#getting_started",
     "href": "output.html#getting_started",
     "title": "2  JASP GIF Library",
-    "section": "2.1 0_Getting_Started",
-    "text": "2.1 0_Getting_Started\n\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4"
+    "section": "",
+    "text": ".mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
+    ]
   },
   {
     "objectID": "output.html#descriptives",
     "href": "output.html#descriptives",
     "title": "2  JASP GIF Library",
     "section": "2.2 1_Descriptives",
-    "text": "2.2 1_Descriptives\n\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4"
+    "text": "2.2 1_Descriptives\n\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
+    ]
   },
   {
     "objectID": "output.html#all_t-testsbayesian_ttest",
     "href": "output.html#all_t-testsbayesian_ttest",
     "title": "2  JASP GIF Library",
     "section": "2.3 2_All_T-Tests/Bayesian_TTest",
-    "text": "2.3 2_All_T-Tests/Bayesian_TTest\n\n.mp4\n.mp4\n.mp4"
+    "text": "2.3 2_All_T-Tests/Bayesian_TTest\n\n.mp4\n.mp4\n.mp4",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
+    ]
   },
   {
     "objectID": "output.html#all_t-teststtest",
     "href": "output.html#all_t-teststtest",
     "title": "2  JASP GIF Library",
     "section": "2.4 2_All_T-Tests/TTest",
-    "text": "2.4 2_All_T-Tests/TTest\n\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4"
+    "text": "2.4 2_All_T-Tests/TTest\n\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
+    ]
   },
   {
     "objectID": "output.html#all_anovaancova",
     "href": "output.html#all_anovaancova",
     "title": "2  JASP GIF Library",
     "section": "2.5 3_All_ANOVA/ANCOVA",
-    "text": "2.5 3_All_ANOVA/ANCOVA\n\n.mp4\n.mp4"
+    "text": "2.5 3_All_ANOVA/ANCOVA\n\n.mp4\n.mp4",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
+    ]
   },
   {
     "objectID": "output.html#all_anovaanova_factorial",
     "href": "output.html#all_anovaanova_factorial",
     "title": "2  JASP GIF Library",
     "section": "2.6 3_All_ANOVA/ANOVA_Factorial",
-    "text": "2.6 3_All_ANOVA/ANOVA_Factorial\n\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4"
+    "text": "2.6 3_All_ANOVA/ANOVA_Factorial\n\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
+    ]
   },
   {
     "objectID": "output.html#all_anovaanova_oneway",
     "href": "output.html#all_anovaanova_oneway",
     "title": "2  JASP GIF Library",
     "section": "2.7 3_All_ANOVA/ANOVA_Oneway",
-    "text": "2.7 3_All_ANOVA/ANOVA_Oneway\n\n.mp4\n.mp4\n.mp4"
+    "text": "2.7 3_All_ANOVA/ANOVA_Oneway\n\n.mp4\n.mp4\n.mp4",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
+    ]
   },
   {
     "objectID": "output.html#all_anovaanova_repeated",
     "href": "output.html#all_anovaanova_repeated",
     "title": "2  JASP GIF Library",
     "section": "2.8 3_All_ANOVA/ANOVA_Repeated",
-    "text": "2.8 3_All_ANOVA/ANOVA_Repeated\n\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4"
+    "text": "2.8 3_All_ANOVA/ANOVA_Repeated\n\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
+    ]
   },
   {
     "objectID": "output.html#all_anovabayesian_ancova",
     "href": "output.html#all_anovabayesian_ancova",
     "title": "2  JASP GIF Library",
     "section": "2.9 3_All_ANOVA/Bayesian_ANCOVA",
-    "text": "2.9 3_All_ANOVA/Bayesian_ANCOVA\n\n.mp4"
+    "text": "2.9 3_All_ANOVA/Bayesian_ANCOVA\n\n.mp4",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
+    ]
   },
   {
     "objectID": "output.html#all_anovabayesian_anova_factorial",
     "href": "output.html#all_anovabayesian_anova_factorial",
     "title": "2  JASP GIF Library",
     "section": "2.10 3_All_ANOVA/Bayesian_ANOVA_Factorial",
-    "text": "2.10 3_All_ANOVA/Bayesian_ANOVA_Factorial\n\n.mp4"
+    "text": "2.10 3_All_ANOVA/Bayesian_ANOVA_Factorial\n\n.mp4",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
+    ]
   },
   {
     "objectID": "output.html#all_anovabayesian_anova_oneway",
     "href": "output.html#all_anovabayesian_anova_oneway",
     "title": "2  JASP GIF Library",
     "section": "2.11 3_All_ANOVA/Bayesian_ANOVA_Oneway",
-    "text": "2.11 3_All_ANOVA/Bayesian_ANOVA_Oneway\n\n.mp4"
+    "text": "2.11 3_All_ANOVA/Bayesian_ANOVA_Oneway\n\n.mp4",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
+    ]
   },
   {
     "objectID": "output.html#all_anovabayesian_anova_repeated",
     "href": "output.html#all_anovabayesian_anova_repeated",
     "title": "2  JASP GIF Library",
     "section": "2.12 3_All_ANOVA/Bayesian_ANOVA_Repeated",
-    "text": "2.12 3_All_ANOVA/Bayesian_ANOVA_Repeated\n\n.mp4"
+    "text": "2.12 3_All_ANOVA/Bayesian_ANOVA_Repeated\n\n.mp4",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
+    ]
   },
   {
     "objectID": "output.html#all_regressionbayesian_correlation",
     "href": "output.html#all_regressionbayesian_correlation",
     "title": "2  JASP GIF Library",
     "section": "2.13 4_All_Regression/Bayesian_Correlation",
-    "text": "2.13 4_All_Regression/Bayesian_Correlation\n\n.mp4"
+    "text": "2.13 4_All_Regression/Bayesian_Correlation\n\n.mp4",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
+    ]
   },
   {
     "objectID": "output.html#all_regressionbayesian_regression",
     "href": "output.html#all_regressionbayesian_regression",
     "title": "2  JASP GIF Library",
     "section": "2.14 4_All_Regression/Bayesian_Regression",
-    "text": "2.14 4_All_Regression/Bayesian_Regression\n\n.mp4"
+    "text": "2.14 4_All_Regression/Bayesian_Regression\n\n.mp4",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
+    ]
   },
   {
     "objectID": "output.html#all_regressioncorrelation",
     "href": "output.html#all_regressioncorrelation",
     "title": "2  JASP GIF Library",
     "section": "2.15 4_All_Regression/Correlation",
-    "text": "2.15 4_All_Regression/Correlation\n\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4"
+    "text": "2.15 4_All_Regression/Correlation\n\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
+    ]
   },
   {
     "objectID": "output.html#all_regressionregression",
     "href": "output.html#all_regressionregression",
     "title": "2  JASP GIF Library",
     "section": "2.16 4_All_Regression/Regression",
-    "text": "2.16 4_All_Regression/Regression\n\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4"
+    "text": "2.16 4_All_Regression/Regression\n\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
+    ]
   },
   {
     "objectID": "output.html#all_frequenciesbayesian_binomial_test",
     "href": "output.html#all_frequenciesbayesian_binomial_test",
     "title": "2  JASP GIF Library",
     "section": "2.17 5_All_Frequencies/Bayesian_Binomial_Test",
-    "text": "2.17 5_All_Frequencies/Bayesian_Binomial_Test\n\n.mp4"
+    "text": "2.17 5_All_Frequencies/Bayesian_Binomial_Test\n\n.mp4",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
+    ]
   },
   {
     "objectID": "output.html#all_frequenciesbayesian_contingency_table",
     "href": "output.html#all_frequenciesbayesian_contingency_table",
     "title": "2  JASP GIF Library",
     "section": "2.18 5_All_Frequencies/Bayesian_Contingency_Table",
-    "text": "2.18 5_All_Frequencies/Bayesian_Contingency_Table\n\n.mp4"
+    "text": "2.18 5_All_Frequencies/Bayesian_Contingency_Table\n\n.mp4",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
+    ]
   },
   {
     "objectID": "output.html#all_frequenciesbinomial_test",
     "href": "output.html#all_frequenciesbinomial_test",
     "title": "2  JASP GIF Library",
     "section": "2.19 5_All_Frequencies/Binomial_Test",
-    "text": "2.19 5_All_Frequencies/Binomial_Test\n\n.mp4"
+    "text": "2.19 5_All_Frequencies/Binomial_Test\n\n.mp4",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
+    ]
   },
   {
     "objectID": "output.html#all_frequenciescontingency_table",
     "href": "output.html#all_frequenciescontingency_table",
     "title": "2  JASP GIF Library",
     "section": "2.20 5_All_Frequencies/Contingency_Table",
-    "text": "2.20 5_All_Frequencies/Contingency_Table\n\n.mp4"
+    "text": "2.20 5_All_Frequencies/Contingency_Table\n\n.mp4",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
+    ]
   },
   {
     "objectID": "output.html#all_factorcfa",
     "href": "output.html#all_factorcfa",
     "title": "2  JASP GIF Library",
     "section": "2.21 6_All_Factor/CFA",
-    "text": "2.21 6_All_Factor/CFA\n\n.mp4"
+    "text": "2.21 6_All_Factor/CFA\n\n.mp4",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
+    ]
   },
   {
     "objectID": "output.html#all_factorefa",
     "href": "output.html#all_factorefa",
     "title": "2  JASP GIF Library",
     "section": "2.22 6_All_Factor/EFA",
-    "text": "2.22 6_All_Factor/EFA\n\n.mp4"
+    "text": "2.22 6_All_Factor/EFA\n\n.mp4",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
+    ]
   },
   {
     "objectID": "output.html#all_factorpca",
     "href": "output.html#all_factorpca",
     "title": "2  JASP GIF Library",
     "section": "2.23 6_All_Factor/PCA",
-    "text": "2.23 6_All_Factor/PCA\n\n.mp4"
+    "text": "2.23 6_All_Factor/PCA\n\n.mp4",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
+    ]
   },
   {
     "objectID": "output.html#meta_analysis",
     "href": "output.html#meta_analysis",
     "title": "2  JASP GIF Library",
     "section": "2.24 7_Meta_Analysis",
-    "text": "2.24 7_Meta_Analysis\n\n.mp4\n.mp4"
+    "text": "2.24 7_Meta_Analysis\n\n.mp4\n.mp4",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
+    ]
   },
   {
     "objectID": "output.html#network_analysis",
     "href": "output.html#network_analysis",
     "title": "2  JASP GIF Library",
     "section": "2.25 8_Network_Analysis",
-    "text": "2.25 8_Network_Analysis\n\n.mp4"
+    "text": "2.25 8_Network_Analysis\n\n.mp4",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
+    ]
   },
   {
     "objectID": "output.html#mediation",
     "href": "output.html#mediation",
     "title": "2  JASP GIF Library",
     "section": "2.26 9_Mediation",
-    "text": "2.26 9_Mediation\n\n.mp4\n.mp4\n.mp4"
+    "text": "2.26 9_Mediation\n\n.mp4\n.mp4\n.mp4",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The JASP Video Library",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>jasp-video-library</span>"
+    ]
   }
 ]
