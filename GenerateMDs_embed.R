@@ -5,7 +5,7 @@ library(stringr)
 # Set base path
 basePath <- "~/GitHubStuff/jasp-video-library/"
 basePathAssets <- "~/GitHubStuff/jasp-video-library/assets/videos/"
-outputPath <- "~/GitHubStuff/jasp-video-library/_qmd"  # Folder for output .md files
+outputPath <- "~/GitHubStuff/jasp-video-library/"  # Folder for output .md files
 dir_create(outputPath)
 
 # Only include folders with numbers (e.g., "01 - ANOVA")
@@ -86,7 +86,7 @@ for (folder in topFoldersWithNumbers) {
 mdFiles <- list.files(path =outputPath, pattern = "\\.qmd$", full.names = FALSE)
 
 # Strip .md extension and create bullet list for Quarto toc
-yamlEntries <- paste0("  - _qmd/", mdFiles)
+yamlEntries <- paste0("  - ", mdFiles)
 
 # Output to console
 cat(yamlEntries, sep = "\n")
