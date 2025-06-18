@@ -1,118 +1,118 @@
-# All ANOVA
+# ANOVA
 
 ## ANOVA Oneway
 
 ### Main Analysis
 
-<video width="600" controls><source src="/assets/videos/All_ANOVA/1_ANOVA_Oneway/ANOVA_Oneway_1_Main-Analysis.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/1_ANOVA_Oneway/ANOVA_Oneway_1_Main-Analysis.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ### Normality And Homogeniety Check
 
-<video width="600" controls><source src="/assets/videos/All_ANOVA/1_ANOVA_Oneway/ANOVA_Oneway_2_Normality-And-Homogeniety-Check.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/1_ANOVA_Oneway/ANOVA_Oneway_2_Normality-And-Homogeniety-Check.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ### Effect Size
 
-<video width="600" controls><source src="/assets/videos/All_ANOVA/1_ANOVA_Oneway/ANOVA_Oneway_3_Effect-Size.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/1_ANOVA_Oneway/ANOVA_Oneway_3_Effect-Size.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ## ANOVA Factorial
 
 ### Main Analysis
 
-<video width="600" controls><source src="/assets/videos/All_ANOVA/2_ANOVA_Factorial/ANOVA_Factorial_1_Main-Analysis.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/2_ANOVA_Factorial/ANOVA_Factorial_1_Main-Analysis.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ### Normality And Homogeniety Check
 
-<video width="600" controls><source src="/assets/videos/All_ANOVA/2_ANOVA_Factorial/ANOVA_Factorial_2_Normality-And-Homogeniety-Check.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/2_ANOVA_Factorial/ANOVA_Factorial_2_Normality-And-Homogeniety-Check.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ### Effect Size
 
-<video width="600" controls><source src="/assets/videos/All_ANOVA/2_ANOVA_Factorial/ANOVA_Factorial_3_Effect-Size.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/2_ANOVA_Factorial/ANOVA_Factorial_3_Effect-Size.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ### Plots
 
-<video width="600" controls><source src="/assets/videos/All_ANOVA/2_ANOVA_Factorial/ANOVA_Factorial_4_Plots.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/2_ANOVA_Factorial/ANOVA_Factorial_4_Plots.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ### Contrasts
 
-<video width="600" controls><source src="/assets/videos/All_ANOVA/2_ANOVA_Factorial/ANOVA_Factorial_5_Contrasts.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/2_ANOVA_Factorial/ANOVA_Factorial_5_Contrasts.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ### Post Hoc Tests
 
-<video width="600" controls><source src="/assets/videos/All_ANOVA/2_ANOVA_Factorial/ANOVA_Factorial_6_Post-Hoc-Tests.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/2_ANOVA_Factorial/ANOVA_Factorial_6_Post-Hoc-Tests.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ### Simple Main Effects
 
-<video width="600" controls><source src="/assets/videos/All_ANOVA/2_ANOVA_Factorial/ANOVA_Factorial_7_Simple-Main-Effects.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/2_ANOVA_Factorial/ANOVA_Factorial_7_Simple-Main-Effects.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ### Nonparametric
 
-<video width="600" controls><source src="/assets/videos/All_ANOVA/2_ANOVA_Factorial/ANOVA_Factorial_8_Nonparametric.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/2_ANOVA_Factorial/ANOVA_Factorial_8_Nonparametric.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ## ANCOVA
 
 ### Main Analysis
 
-<video width="600" controls><source src="/assets/videos/All_ANOVA/3_ANCOVA/ANCOVA_1_Main-Analysis.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/3_ANCOVA/ANCOVA_1_Main-Analysis.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ### Descriptives Plots
 
-<video width="600" controls><source src="/assets/videos/All_ANOVA/3_ANCOVA/ANCOVA_2_Descriptives-Plots.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/3_ANCOVA/ANCOVA_2_Descriptives-Plots.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ## ANOVA Repeated
 
 ### Main Analysis
 
-<video width="600" controls><source src="/assets/videos/All_ANOVA/4_ANOVA_Repeated/ANOVA_RM_1_Main-Analysis.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/4_ANOVA_Repeated/ANOVA_RM_1_Main-Analysis.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ### Homogeneity Test
 
-<video width="600" controls><source src="/assets/videos/All_ANOVA/4_ANOVA_Repeated/ANOVA_RM_2_Homogeneity-Test.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/4_ANOVA_Repeated/ANOVA_RM_2_Homogeneity-Test.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ### Plots
 
-<video width="600" controls><source src="/assets/videos/All_ANOVA/4_ANOVA_Repeated/ANOVA_RM_3_Plots.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/4_ANOVA_Repeated/ANOVA_RM_3_Plots.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ### Effect Size
 
-<video width="600" controls><source src="/assets/videos/All_ANOVA/4_ANOVA_Repeated/ANOVA_RM_4_Effect-Size.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/4_ANOVA_Repeated/ANOVA_RM_4_Effect-Size.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ### Contrasts
 
-<video width="600" controls><source src="/assets/videos/All_ANOVA/4_ANOVA_Repeated/ANOVA_RM_5_Contrasts.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/4_ANOVA_Repeated/ANOVA_RM_5_Contrasts.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ### Post Hoc Tests
 
-<video width="600" controls><source src="/assets/videos/All_ANOVA/4_ANOVA_Repeated/ANOVA_RM_6_Post-Hoc-Tests.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/4_ANOVA_Repeated/ANOVA_RM_6_Post-Hoc-Tests.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ### Sphericity Test
 
-<video width="600" controls><source src="/assets/videos/All_ANOVA/4_ANOVA_Repeated/ANOVA_RM_7_Sphericity-Test.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/4_ANOVA_Repeated/ANOVA_RM_7_Sphericity-Test.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ### QQ Plot
 
-<video width="600" controls><source src="/assets/videos/All_ANOVA/4_ANOVA_Repeated/ANOVA_RM_8_QQ-Plot.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/4_ANOVA_Repeated/ANOVA_RM_8_QQ-Plot.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ## Bayesian ANOVA Oneway
 
 ### Main Analysis
 
-<video width="600" controls><source src="/assets/videos/All_ANOVA/5_Bayesian_ANOVA_Oneway/Bayesian_ANOVA_Oneway_1_Main-Analysis.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/5_Bayesian_ANOVA_Oneway/Bayesian_ANOVA_Oneway_1_Main-Analysis.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ## Bayesian ANOVA Factorial
 
 ### Main Analysis
 
-<video width="600" controls><source src="/assets/videos/All_ANOVA/6_Bayesian_ANOVA_Factorial/Bayesian_ANOVA_1_Main-Analysis.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/6_Bayesian_ANOVA_Factorial/Bayesian_ANOVA_1_Main-Analysis.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ## Bayesian ANCOVA
 
 ### Main Analysis
 
-<video width="600" controls><source src="/assets/videos/All_ANOVA/7_Bayesian_ANCOVA/Bayesian_ANCOVA_1_Main-Analysis.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/7_Bayesian_ANCOVA/Bayesian_ANCOVA_1_Main-Analysis.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ## Bayesian ANOVA Repeated
 
 ### Main Analysis
 
-<video width="600" controls><source src="/assets/videos/All_ANOVA/8_Bayesian_ANOVA_Repeated/Bayesian_ANOVA_Repeated_1_Main-Analysis.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/8_Bayesian_ANOVA_Repeated/Bayesian_ANOVA_Repeated_1_Main-Analysis.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 

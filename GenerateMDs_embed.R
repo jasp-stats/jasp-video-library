@@ -3,9 +3,9 @@ library(fs)
 library(stringr)
 
 # Set base path
-basePath <- "~/GitHubStuff/jasp-video-library/"
-basePathAssets <- "~/GitHubStuff/jasp-video-library/assets/videos/"
-outputPath <- "~/GitHubStuff/jasp-video-library/"  # Folder for output .md files
+basePath <- "."
+basePathAssets <- "./assets/videos/"
+outputPath <- "."  # Folder for output .md files
 # dir_create(outputPath)
 
 # Only include folders with numbers (e.g., "01 - ANOVA")
@@ -49,7 +49,7 @@ for (folder in topFoldersWithNumbers) {
   
   # Start Markdown content
   mdLines <- c(
-    paste0("# ", folderTitle),
+    paste0("# ", gsub(pattern = "All ", replacement = "", folderTitle)),
     ""
   )
   
@@ -63,7 +63,7 @@ for (folder in topFoldersWithNumbers) {
       
       embed <- paste0(
         '<video width="600" controls><source src="/',
-        relUrl,
+        "jasp-video-library/", relUrl,
         '" type="video/mp4">Your browser does not support the video tag.</video>'
       )
       
