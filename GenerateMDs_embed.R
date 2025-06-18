@@ -3,12 +3,13 @@ library(fs)
 library(stringr)
 
 # Set base path
-basePath <- "~/GitHubStuff/jasp-video-library/assets/videos/"
+basePath <- "~/GitHubStuff/jasp-video-library/"
+basePathAssets <- "~/GitHubStuff/jasp-video-library/assets/videos/"
 outputPath <- "~/GitHubStuff/jasp-video-library/_qmd"  # Folder for output .md files
 dir_create(outputPath)
 
 # Only include folders with numbers (e.g., "01 - ANOVA")
-allTopFolders <- dir_ls(basePath, type = "directory")
+allTopFolders <- dir_ls(basePathAssets, type = "directory")
 topFoldersWithNumbers <- allTopFolders[str_detect(path_file(allTopFolders), "[0-9]")]
 
 # Function to create a clean title from folder name
@@ -42,7 +43,7 @@ for (folder in topFoldersWithNumbers) {
   if (length(mp4Files) == 0) next
   
   # Group mp4s by subfolder
-  relPaths <- path_rel(mp4Files, basePath)
+  relPaths <- path_rel(mp4Files, basePathAssets)
   subfolders <- path_dir(relPaths)
   grouped <- split(mp4Files, subfolders)
   

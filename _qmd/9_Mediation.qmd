@@ -2,9 +2,15 @@
 
 ## Mediation
 
-|Title         |Link                                                                                |
-|:-------------|:-----------------------------------------------------------------------------------|
-|Load Module   |<a href="/9_Mediation/Mediation_1_Load-Module.mp4" target="_blank">Open Video</a>   |
-|Main Analysis |<a href="/9_Mediation/Mediation_2_Main-Analysis.mp4" target="_blank">Open Video</a> |
-|Plot          |<a href="/9_Mediation/Mediation_3_Plot.mp4" target="_blank">Open Video</a>          |
+### Load Module
+
+<video width="600" controls><source src="/assets/videos/9_Mediation/Mediation_1_Load-Module.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+### Main Analysis
+
+<video width="600" controls><source src="/assets/videos/9_Mediation/Mediation_2_Main-Analysis.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+### Plot
+
+<video width="600" controls><source src="/assets/videos/9_Mediation/Mediation_3_Plot.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 

@@ -2,25 +2,25 @@
 
 ## Bayesian Binomial Test
 
-|Title         |Link                                                                                                                          |
-|:-------------|:-----------------------------------------------------------------------------------------------------------------------------|
-|Main Analysis |<a href="/5_All_Frequencies/Bayesian_Binomial_Test/Bayesian_Binomial_Test_1_Main-Analysis.mp4" target="_blank">Open Video</a> |
+### Main Analysis
+
+<video width="600" controls><source src="/assets/videos/5_All_Frequencies/Bayesian_Binomial_Test/Bayesian_Binomial_Test_1_Main-Analysis.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ## Bayesian Contingency Table
 
-|Title         |Link                                                                                                                                  |
-|:-------------|:-------------------------------------------------------------------------------------------------------------------------------------|
-|Main Analysis |<a href="/5_All_Frequencies/Bayesian_Contingency_Table/Bayesian_Contingency_Table_1_Main-Analysis.mp4" target="_blank">Open Video</a> |
+### Main Analysis
+
+<video width="600" controls><source src="/assets/videos/5_All_Frequencies/Bayesian_Contingency_Table/Bayesian_Contingency_Table_1_Main-Analysis.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ## Binomial Test
 
-|Title         |Link                                                                                                        |
-|:-------------|:-----------------------------------------------------------------------------------------------------------|
-|Main Analysis |<a href="/5_All_Frequencies/Binomial_Test/Binomial_Test_1_Main-Analysis.mp4" target="_blank">Open Video</a> |
+### Main Analysis
+
+<video width="600" controls><source src="/assets/videos/5_All_Frequencies/Binomial_Test/Binomial_Test_1_Main-Analysis.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ## Contingency Table
 
-|Title         |Link                                                                                                          |
-|:-------------|:-------------------------------------------------------------------------------------------------------------|
-|Main Analysis |<a href="/5_All_Frequencies/Contingency_Table/Contingency_1_Main-Analysis.mp4" target="_blank">Open Video</a> |
+### Main Analysis
+
+<video width="600" controls><source src="/assets/videos/5_All_Frequencies/Contingency_Table/Contingency_1_Main-Analysis.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 

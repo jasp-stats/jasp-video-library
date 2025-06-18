@@ -1,6 +1,8 @@
 project:
   type: book
   output-dir: docs
+  resources:
+  - assets
 
 book:
   title: "The JASP Video Library"

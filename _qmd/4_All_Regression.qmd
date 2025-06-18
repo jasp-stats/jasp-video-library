@@ -2,36 +2,69 @@
 
 ## Bayesian Correlation
 
-|Title         |Link                                                                                                                     |
-|:-------------|:------------------------------------------------------------------------------------------------------------------------|
-|Main Analysis |<a href="/4_All_Regression/Bayesian_Correlation/Bayesian_Correlation_1_Main-Analysis.mp4" target="_blank">Open Video</a> |
+### Main Analysis
+
+<video width="600" controls><source src="/assets/videos/4_All_Regression/Bayesian_Correlation/Bayesian_Correlation_1_Main-Analysis.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ## Bayesian Regression
 
-|Title         |Link                                                                                                                  |
-|:-------------|:---------------------------------------------------------------------------------------------------------------------|
-|Main Analysis |<a href="/4_All_Regression/Bayesian_Regression/Byesian_Regression_1_Main-Analysis.mp4" target="_blank">Open Video</a> |
+### Main Analysis
+
+<video width="600" controls><source src="/assets/videos/4_All_Regression/Bayesian_Regression/Byesian_Regression_1_Main-Analysis.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ## Correlation
 
-|Title                 |Link                                                                                                           |
-|:---------------------|:--------------------------------------------------------------------------------------------------------------|
-|Main Analysis         |<a href="/4_All_Regression/Correlation/Correlation_1_Main-Analysis.mp4" target="_blank">Open Video</a>         |
-|Main Analysis Partial |<a href="/4_All_Regression/Correlation/Correlation_2_Main-Analysis-Partial.mp4" target="_blank">Open Video</a> |
-|Assumption Checks     |<a href="/4_All_Regression/Correlation/Correlation_3_Assumption-Checks.mp4" target="_blank">Open Video</a>     |
-|Plots                 |<a href="/4_All_Regression/Correlation/Correlation_4_Plots.mp4" target="_blank">Open Video</a>                 |
-|Pairwise              |<a href="/4_All_Regression/Correlation/Correlation_5_Pairwise.mp4" target="_blank">Open Video</a>              |
-|Various Coefficients  |<a href="/4_All_Regression/Correlation/Correlation_6_Various-Coefficients.mp4" target="_blank">Open Video</a>  |
+### Main Analysis
+
+<video width="600" controls><source src="/assets/videos/4_All_Regression/Correlation/Correlation_1_Main-Analysis.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+### Main Analysis Partial
+
+<video width="600" controls><source src="/assets/videos/4_All_Regression/Correlation/Correlation_2_Main-Analysis-Partial.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+### Assumption Checks
+
+<video width="600" controls><source src="/assets/videos/4_All_Regression/Correlation/Correlation_3_Assumption-Checks.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+### Plots
+
+<video width="600" controls><source src="/assets/videos/4_All_Regression/Correlation/Correlation_4_Plots.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+### Pairwise
+
+<video width="600" controls><source src="/assets/videos/4_All_Regression/Correlation/Correlation_5_Pairwise.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+### Various Coefficients
+
+<video width="600" controls><source src="/assets/videos/4_All_Regression/Correlation/Correlation_6_Various-Coefficients.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ## Regression
 
-|Title                             |Link                                                                                                                     |
-|:---------------------------------|:------------------------------------------------------------------------------------------------------------------------|
-|Main Analysis Single Predictor    |<a href="/4_All_Regression/Regression/Regression_1_Main-Analysis-Single-Predictor.mp4" target="_blank">Open Video</a>    |
-|Main Analysis Multiple Predictors |<a href="/4_All_Regression/Regression/Regression_2_Main-Analysis-Multiple-Predictors.mp4" target="_blank">Open Video</a> |
-|Hierarchical Regression           |<a href="/4_All_Regression/Regression/Regression_3_Hierarchical-Regression.mp4" target="_blank">Open Video</a>           |
-|Assumption Checks                 |<a href="/4_All_Regression/Regression/Regression_4_Assumption-Checks.mp4" target="_blank">Open Video</a>                 |
-|Bootstrap Confidence Interval     |<a href="/4_All_Regression/Regression/Regression_5_Bootstrap-Confidence-Interval.mp4" target="_blank">Open Video</a>     |
-|Cooks Distance                    |<a href="/4_All_Regression/Regression/Regression_6_Cooks-Distance.mp4" target="_blank">Open Video</a>                    |
-|Logistic Regression               |<a href="/4_All_Regression/Regression/Regression_7_Logistic-Regression.mp4" target="_blank">Open Video</a>               |
+### Main Analysis Single Predictor
+
+<video width="600" controls><source src="/assets/videos/4_All_Regression/Regression/Regression_1_Main-Analysis-Single-Predictor.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+### Main Analysis Multiple Predictors
+
+<video width="600" controls><source src="/assets/videos/4_All_Regression/Regression/Regression_2_Main-Analysis-Multiple-Predictors.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+### Hierarchical Regression
+
+<video width="600" controls><source src="/assets/videos/4_All_Regression/Regression/Regression_3_Hierarchical-Regression.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+### Assumption Checks
+
+<video width="600" controls><source src="/assets/videos/4_All_Regression/Regression/Regression_4_Assumption-Checks.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+### Bootstrap Confidence Interval
+
+<video width="600" controls><source src="/assets/videos/4_All_Regression/Regression/Regression_5_Bootstrap-Confidence-Interval.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+### Cooks Distance
+
+<video width="600" controls><source src="/assets/videos/4_All_Regression/Regression/Regression_6_Cooks-Distance.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+### Logistic Regression
+
+<video width="600" controls><source src="/assets/videos/4_All_Regression/Regression/Regression_7_Logistic-Regression.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
