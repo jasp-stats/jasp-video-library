@@ -1,0 +1,48 @@
+# Getting-Started
+
+## Getting-Started
+
+### Sum Score
+
+<video width="600" controls><source src="/assets/videos/Getting-Started/Getting_Started_10_Sum-Score.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+### Mean Score
+
+<video width="600" controls><source src="/assets/videos/Getting-Started/Getting_Started_11_Mean-Score.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+### Loading Data
+
+<video width="600" controls><source src="/assets/videos/Getting-Started/Getting_Started_1_Loading-Data.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+### Renaming Categories
+
+<video width="600" controls><source src="/assets/videos/Getting-Started/Getting_Started_2_Renaming-Categories.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+### Reordering Categories
+
+<video width="600" controls><source src="/assets/videos/Getting-Started/Getting_Started_3_Reordering-Categories.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+### Center Variable
+
+<video width="600" controls><source src="/assets/videos/Getting-Started/Getting_Started_4_Center-Variable.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+### Compute New Column
+
+<video width="600" controls><source src="/assets/videos/Getting-Started/Getting_Started_5_Compute-New-Column.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+### Filter by Group
+
+<video width="600" controls><source src="/assets/videos/Getting-Started/Getting_Started_6_Filter-by-Group.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+### Filter Drag and Drop
+
+<video width="600" controls><source src="/assets/videos/Getting-Started/Getting_Started_7_Filter-Drag-and-Drop.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+### Convert to Ranks
+
+<video width="600" controls><source src="/assets/videos/Getting-Started/Getting_Started_8_Convert-to-Ranks.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+### R How To
+
+<video width="600" controls><source src="/assets/videos/Getting-Started/Getting_Started_9_R-How-To.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+

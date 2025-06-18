@@ -6,11 +6,11 @@ library(stringr)
 basePath <- "~/GitHubStuff/jasp-video-library/"
 basePathAssets <- "~/GitHubStuff/jasp-video-library/assets/videos/"
 outputPath <- "~/GitHubStuff/jasp-video-library/"  # Folder for output .md files
-dir_create(outputPath)
+# dir_create(outputPath)
 
 # Only include folders with numbers (e.g., "01 - ANOVA")
 allTopFolders <- dir_ls(basePathAssets, type = "directory")
-topFoldersWithNumbers <- allTopFolders[str_detect(path_file(allTopFolders), "[0-9]")]
+topFoldersWithNumbers <- allTopFolders
 
 # Function to create a clean title from folder name
 make_title <- function(name) {

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>The JASP Video Library - 4&nbsp; All T Tests</title>
+<title>The JASP Video Library - 9&nbsp; Meta-Analysis</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./All_ANOVA.html" rel="next">
-<link href="./Descriptives.html" rel="prev">
+<link href="./Network-Analysis.html" rel="next">
+<link href="./All_Factor-Analysis.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -73,7 +73,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./All_T_Tests.html"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">All T Tests</span></a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./Meta-Analysis.html"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Meta-Analysis</span></a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -106,8 +106,8 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Getting_Started.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Getting Started</span></span></a>
+  <a href="./Getting-Started.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Getting-Started</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -118,8 +118,8 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./All_T_Tests.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">All T Tests</span></span></a>
+  <a href="./All_T-Tests.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">All T-Tests</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -142,20 +142,20 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./All_Factor.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">All Factor</span></span></a>
+  <a href="./All_Factor-Analysis.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">All Factor-Analysis</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Meta_Analysis.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Meta Analysis</span></span></a>
+  <a href="./Meta-Analysis.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Meta-Analysis</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./Network_Analysis.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Network Analysis</span></span></a>
+  <a href="./Network-Analysis.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Network-Analysis</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -174,21 +174,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#bayesian-ttest" id="toc-bayesian-ttest" class="nav-link active" data-scroll-target="#bayesian-ttest"><span class="header-section-number">4.1</span> Bayesian TTest</a>
+  <li><a href="#meta-analysis" id="toc-meta-analysis" class="nav-link active" data-scroll-target="#meta-analysis"><span class="header-section-number">9.1</span> Meta-Analysis</a>
   <ul class="collapse">
-  <li><a href="#independent" id="toc-independent" class="nav-link" data-scroll-target="#independent"><span class="header-section-number">4.1.1</span> Independent</a></li>
-  <li><a href="#one-sample" id="toc-one-sample" class="nav-link" data-scroll-target="#one-sample"><span class="header-section-number">4.1.2</span> One Sample</a></li>
-  <li><a href="#paired" id="toc-paired" class="nav-link" data-scroll-target="#paired"><span class="header-section-number">4.1.3</span> Paired</a></li>
-  </ul></li>
-  <li><a href="#ttest" id="toc-ttest" class="nav-link" data-scroll-target="#ttest"><span class="header-section-number">4.2</span> TTest</a>
-  <ul class="collapse">
-  <li><a href="#independent-main-analysis" id="toc-independent-main-analysis" class="nav-link" data-scroll-target="#independent-main-analysis"><span class="header-section-number">4.2.1</span> Independent Main Analysis</a></li>
-  <li><a href="#mean-difference" id="toc-mean-difference" class="nav-link" data-scroll-target="#mean-difference"><span class="header-section-number">4.2.2</span> Mean Difference</a></li>
-  <li><a href="#assumption-checks" id="toc-assumption-checks" class="nav-link" data-scroll-target="#assumption-checks"><span class="header-section-number">4.2.3</span> Assumption Checks</a></li>
-  <li><a href="#plots" id="toc-plots" class="nav-link" data-scroll-target="#plots"><span class="header-section-number">4.2.4</span> Plots</a></li>
-  <li><a href="#effect-size" id="toc-effect-size" class="nav-link" data-scroll-target="#effect-size"><span class="header-section-number">4.2.5</span> Effect Size</a></li>
-  <li><a href="#one-sample-all" id="toc-one-sample-all" class="nav-link" data-scroll-target="#one-sample-all"><span class="header-section-number">4.2.6</span> One Sample All</a></li>
-  <li><a href="#paired-all" id="toc-paired-all" class="nav-link" data-scroll-target="#paired-all"><span class="header-section-number">4.2.7</span> Paired All</a></li>
+  <li><a href="#effect-size-computation" id="toc-effect-size-computation" class="nav-link" data-scroll-target="#effect-size-computation"><span class="header-section-number">9.1.1</span> Effect Size Computation</a></li>
+  <li><a href="#main-analysis" id="toc-main-analysis" class="nav-link" data-scroll-target="#main-analysis"><span class="header-section-number">9.1.2</span> Main Analysis</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -198,7 +187,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">All T Tests</span></h1>
+<h1 class="title"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Meta-Analysis</span></h1>
 </div>
 
 
@@ -213,69 +202,18 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="bayesian-ttest" class="level2" data-number="4.1">
-<h2 data-number="4.1" class="anchored" data-anchor-id="bayesian-ttest"><span class="header-section-number">4.1</span> Bayesian TTest</h2>
-<section id="independent" class="level3" data-number="4.1.1">
-<h3 data-number="4.1.1" class="anchored" data-anchor-id="independent"><span class="header-section-number">4.1.1</span> Independent</h3>
+<section id="meta-analysis" class="level2" data-number="9.1">
+<h2 data-number="9.1" class="anchored" data-anchor-id="meta-analysis"><span class="header-section-number">9.1</span> Meta-Analysis</h2>
+<section id="effect-size-computation" class="level3" data-number="9.1.1">
+<h3 data-number="9.1.1" class="anchored" data-anchor-id="effect-size-computation"><span class="header-section-number">9.1.1</span> Effect Size Computation</h3>
 <video width="600" controls="">
-<source src="/assets/videos/2_All_T-Tests/Bayesian_TTest/Bayesian_TTest_1_Independent.mp4" type="video/mp4">
+<source src="/assets/videos/Meta-Analysis/Meta_Analysis_1_Effect-Size-Computation.mp4" type="video/mp4">
 <p>Your browser does not support the video tag.</p>
 </video></section>
-<section id="one-sample" class="level3" data-number="4.1.2">
-<h3 data-number="4.1.2" class="anchored" data-anchor-id="one-sample"><span class="header-section-number">4.1.2</span> One Sample</h3>
+<section id="main-analysis" class="level3" data-number="9.1.2">
+<h3 data-number="9.1.2" class="anchored" data-anchor-id="main-analysis"><span class="header-section-number">9.1.2</span> Main Analysis</h3>
 <video width="600" controls="">
-<source src="/assets/videos/2_All_T-Tests/Bayesian_TTest/Bayesian_TTest_2_One-Sample.mp4" type="video/mp4">
-<p>Your browser does not support the video tag.</p>
-</video></section>
-<section id="paired" class="level3" data-number="4.1.3">
-<h3 data-number="4.1.3" class="anchored" data-anchor-id="paired"><span class="header-section-number">4.1.3</span> Paired</h3>
-<video width="600" controls="">
-<source src="/assets/videos/2_All_T-Tests/Bayesian_TTest/Bayesian_TTest_3_Paired.mp4" type="video/mp4">
-<p>Your browser does not support the video tag.</p>
-</video></section>
-</section>
-<section id="ttest" class="level2" data-number="4.2">
-<h2 data-number="4.2" class="anchored" data-anchor-id="ttest"><span class="header-section-number">4.2</span> TTest</h2>
-<section id="independent-main-analysis" class="level3" data-number="4.2.1">
-<h3 data-number="4.2.1" class="anchored" data-anchor-id="independent-main-analysis"><span class="header-section-number">4.2.1</span> Independent Main Analysis</h3>
-<video width="600" controls="">
-<source src="/assets/videos/2_All_T-Tests/TTest/TTest_1_Independent-Main-Analysis.mp4" type="video/mp4">
-<p>Your browser does not support the video tag.</p>
-</video></section>
-<section id="mean-difference" class="level3" data-number="4.2.2">
-<h3 data-number="4.2.2" class="anchored" data-anchor-id="mean-difference"><span class="header-section-number">4.2.2</span> Mean Difference</h3>
-<video width="600" controls="">
-<source src="/assets/videos/2_All_T-Tests/TTest/TTest_2_Mean-Difference.mp4" type="video/mp4">
-<p>Your browser does not support the video tag.</p>
-</video></section>
-<section id="assumption-checks" class="level3" data-number="4.2.3">
-<h3 data-number="4.2.3" class="anchored" data-anchor-id="assumption-checks"><span class="header-section-number">4.2.3</span> Assumption Checks</h3>
-<video width="600" controls="">
-<source src="/assets/videos/2_All_T-Tests/TTest/TTest_3_Assumption-Checks.mp4" type="video/mp4">
-<p>Your browser does not support the video tag.</p>
-</video></section>
-<section id="plots" class="level3" data-number="4.2.4">
-<h3 data-number="4.2.4" class="anchored" data-anchor-id="plots"><span class="header-section-number">4.2.4</span> Plots</h3>
-<video width="600" controls="">
-<source src="/assets/videos/2_All_T-Tests/TTest/TTest_4_Plots.mp4" type="video/mp4">
-<p>Your browser does not support the video tag.</p>
-</video></section>
-<section id="effect-size" class="level3" data-number="4.2.5">
-<h3 data-number="4.2.5" class="anchored" data-anchor-id="effect-size"><span class="header-section-number">4.2.5</span> Effect Size</h3>
-<video width="600" controls="">
-<source src="/assets/videos/2_All_T-Tests/TTest/TTest_5_Effect-Size.mp4" type="video/mp4">
-<p>Your browser does not support the video tag.</p>
-</video></section>
-<section id="one-sample-all" class="level3" data-number="4.2.6">
-<h3 data-number="4.2.6" class="anchored" data-anchor-id="one-sample-all"><span class="header-section-number">4.2.6</span> One Sample All</h3>
-<video width="600" controls="">
-<source src="/assets/videos/2_All_T-Tests/TTest/TTest_6_One-Sample-All.mp4" type="video/mp4">
-<p>Your browser does not support the video tag.</p>
-</video></section>
-<section id="paired-all" class="level3" data-number="4.2.7">
-<h3 data-number="4.2.7" class="anchored" data-anchor-id="paired-all"><span class="header-section-number">4.2.7</span> Paired All</h3>
-<video width="600" controls="">
-<source src="/assets/videos/2_All_T-Tests/TTest/TTest_7_Paired-All.mp4" type="video/mp4">
+<source src="/assets/videos/Meta-Analysis/Meta_Analysis_2_Main-Analysis.mp4" type="video/mp4">
 <p>Your browser does not support the video tag.</p>
 
 
@@ -518,13 +456,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./Descriptives.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Descriptives</span></span>
+      <a href="./All_Factor-Analysis.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">All Factor-Analysis</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./All_ANOVA.html" class="pagination-link">
-        <span class="nav-page-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">All ANOVA</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./Network-Analysis.html" class="pagination-link">
+        <span class="nav-page-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Network-Analysis</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
