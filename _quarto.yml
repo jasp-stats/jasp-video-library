@@ -9,16 +9,16 @@ book:
   author: "The JASP Team"
   chapters:
     - index.qmd
-    - 0_Getting_Started.qmd
-    - 1_Descriptives.qmd
-    - 2_All_T-Tests.qmd
-    - 3_All_ANOVA.qmd
-    - 4_All_Regression.qmd
-    - 5_All_Frequencies.qmd
-    - 6_All_Factor.qmd
-    - 7_Meta_Analysis.qmd
-    - 8_Network_Analysis.qmd
-    - 9_Mediation.qmd
+    - Getting_Started.qmd
+    - Descriptives.qmd
+    - All_T_Tests.qmd
+    - All_ANOVA.qmd
+    - All_Regression.qmd
+    - All_Frequencies.qmd
+    - All_Factor.qmd
+    - Meta_Analysis.qmd
+    - Network_Analysis.qmd
+    - Mediation.qmd
 
 format:
   html:

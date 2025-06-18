@@ -1,4 +1,4 @@
-# All T-Tests
+# All T Tests
 
 ## Bayesian TTest
 
