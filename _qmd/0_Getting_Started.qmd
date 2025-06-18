@@ -1,0 +1,18 @@
+# Getting Started
+
+## Getting Started
+
+|Title                 |Link                                                                                                    |
+|:---------------------|:-------------------------------------------------------------------------------------------------------|
+|Sum Score             |<a href="/0_Getting_Started/Getting_Started_10_Sum-Score.mp4" target="_blank">Open Video</a>            |
+|Mean Score            |<a href="/0_Getting_Started/Getting_Started_11_Mean-Score.mp4" target="_blank">Open Video</a>           |
+|Loading Data          |<a href="/0_Getting_Started/Getting_Started_1_Loading-Data.mp4" target="_blank">Open Video</a>          |
+|Renaming Categories   |<a href="/0_Getting_Started/Getting_Started_2_Renaming-Categories.mp4" target="_blank">Open Video</a>   |
+|Reordering Categories |<a href="/0_Getting_Started/Getting_Started_3_Reordering-Categories.mp4" target="_blank">Open Video</a> |
+|Center Variable       |<a href="/0_Getting_Started/Getting_Started_4_Center-Variable.mp4" target="_blank">Open Video</a>       |
+|Compute New Column    |<a href="/0_Getting_Started/Getting_Started_5_Compute-New-Column.mp4" target="_blank">Open Video</a>    |
+|Filter by Group       |<a href="/0_Getting_Started/Getting_Started_6_Filter-by-Group.mp4" target="_blank">Open Video</a>       |
+|Filter Drag and Drop  |<a href="/0_Getting_Started/Getting_Started_7_Filter-Drag-and-Drop.mp4" target="_blank">Open Video</a>  |
+|Convert to Ranks      |<a href="/0_Getting_Started/Getting_Started_8_Convert-to-Ranks.mp4" target="_blank">Open Video</a>      |
+|R How To              |<a href="/0_Getting_Started/Getting_Started_9_R-How-To.mp4" target="_blank">Open Video</a>              |
+

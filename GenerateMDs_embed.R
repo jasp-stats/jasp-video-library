@@ -1,7 +1,6 @@
 # Load necessary packages
 library(fs)
 library(stringr)
-library(knitr)
 
 # Set base path
 basePath <- "~/GitHubStuff/jasp-video-library/assets/videos/"
@@ -58,27 +57,23 @@ for (folder in topFoldersWithNumbers) {
     subTitle <- if (subfolder == folderName) make_title(folder)  else make_title(path_rel(subfolder, folder))   
     mdLines <- c(mdLines, paste0("## ", subTitle), "")
     
-    videoTable <- data.frame(Title = character(), Link = character())
-    
     for (filePath in grouped[[subfolder]]) {
-      # Path relative to project root for browser link
-      relUrl <- path_rel(filePath, start = basePath)
+      relUrl <- path_rel(filePath, start = basePath) %>% str_replace_all(" ", "%20")
       
-      # Human-readable title
+      embed <- paste0(
+        '<video width="600" controls><source src="/',
+        relUrl,
+        '" type="video/mp4">Your browser does not support the video tag.</video>'
+      )
+      
+      
       fileTitle <- path_ext_remove(path_file(filePath)) %>%
-        str_replace("^[^0-9]*[0-9]+\\s*", "") %>%
-        str_replace_all("[-_]", " ") %>%
-        str_squish()
+        str_replace("^[^0-9]*[0-9]+\\s*", "") %>%  # remove everything before and including the first number
+        str_replace_all("[-_]", " ") %>%          # replace dashes and underscores with spaces
+        str_squish()                              # trim and remove double spaces      
       
-      # Markdown link that opens in new tab (HTML workaround)
-      link <- paste0('<a href="/', relUrl, '" target="_blank">Open Video</a>')
-      
-      videoTable <- rbind(videoTable, data.frame(Title = fileTitle, Link = link))
+      mdLines <- c(mdLines, paste0("### ", fileTitle), "", embed, "")
     }
-    
-    # Convert table to Markdown lines
-    mdLines <- c(mdLines, knitr::kable(videoTable, format = "markdown"), "")
-    
   }
   
   # Write to .md file

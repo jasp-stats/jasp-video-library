@@ -1,0 +1,9 @@
+# Meta Analysis
+
+## Meta Analysis
+
+|Title                   |Link                                                                                                  |
+|:-----------------------|:-----------------------------------------------------------------------------------------------------|
+|Effect Size Computation |<a href="/7_Meta_Analysis/Meta_Analysis_1_Effect-Size-Computation.mp4" target="_blank">Open Video</a> |
+|Main Analysis           |<a href="/7_Meta_Analysis/Meta_Analysis_2_Main-Analysis.mp4" target="_blank">Open Video</a>           |
+

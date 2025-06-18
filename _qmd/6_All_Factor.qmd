@@ -1,0 +1,20 @@
+# All Factor
+
+## CFA
+
+|Title         |Link                                                                               |
+|:-------------|:----------------------------------------------------------------------------------|
+|Main Analysis |<a href="/6_All_Factor/CFA/CFA_1_Main-Analysis.mp4" target="_blank">Open Video</a> |
+
+## EFA
+
+|Title         |Link                                                                               |
+|:-------------|:----------------------------------------------------------------------------------|
+|Main Analysis |<a href="/6_All_Factor/EFA/EFA_1_Main-Analysis.mp4" target="_blank">Open Video</a> |
+
+## PCA
+
+|Title         |Link                                                                               |
+|:-------------|:----------------------------------------------------------------------------------|
+|Main Analysis |<a href="/6_All_Factor/PCA/PCA_1_Main-Analysis.mp4" target="_blank">Open Video</a> |
+

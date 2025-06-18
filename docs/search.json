@@ -1,282 +1,191 @@
 [
   {
-    "objectID": "output.html",
-    "href": "output.html",
-    "title": "2  JASP GIF Library",
-    "section": "",
-    "text": "2.1 0_Getting_Started",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
-    ]
-  },
-  {
-    "objectID": "output.html#getting_started",
-    "href": "output.html#getting_started",
-    "title": "2  JASP GIF Library",
-    "section": "",
-    "text": ".mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
-    ]
-  },
-  {
-    "objectID": "output.html#descriptives",
-    "href": "output.html#descriptives",
-    "title": "2  JASP GIF Library",
-    "section": "2.2 1_Descriptives",
-    "text": "2.2 1_Descriptives\n\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
-    ]
-  },
-  {
-    "objectID": "output.html#all_t-testsbayesian_ttest",
-    "href": "output.html#all_t-testsbayesian_ttest",
-    "title": "2  JASP GIF Library",
-    "section": "2.3 2_All_T-Tests/Bayesian_TTest",
-    "text": "2.3 2_All_T-Tests/Bayesian_TTest\n\n.mp4\n.mp4\n.mp4",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
-    ]
-  },
-  {
-    "objectID": "output.html#all_t-teststtest",
-    "href": "output.html#all_t-teststtest",
-    "title": "2  JASP GIF Library",
-    "section": "2.4 2_All_T-Tests/TTest",
-    "text": "2.4 2_All_T-Tests/TTest\n\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
-    ]
-  },
-  {
-    "objectID": "output.html#all_anovaancova",
-    "href": "output.html#all_anovaancova",
-    "title": "2  JASP GIF Library",
-    "section": "2.5 3_All_ANOVA/ANCOVA",
-    "text": "2.5 3_All_ANOVA/ANCOVA\n\n.mp4\n.mp4",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
-    ]
-  },
-  {
-    "objectID": "output.html#all_anovaanova_factorial",
-    "href": "output.html#all_anovaanova_factorial",
-    "title": "2  JASP GIF Library",
-    "section": "2.6 3_All_ANOVA/ANOVA_Factorial",
-    "text": "2.6 3_All_ANOVA/ANOVA_Factorial\n\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
-    ]
-  },
-  {
-    "objectID": "output.html#all_anovaanova_oneway",
-    "href": "output.html#all_anovaanova_oneway",
-    "title": "2  JASP GIF Library",
-    "section": "2.7 3_All_ANOVA/ANOVA_Oneway",
-    "text": "2.7 3_All_ANOVA/ANOVA_Oneway\n\n.mp4\n.mp4\n.mp4",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
-    ]
-  },
-  {
-    "objectID": "output.html#all_anovaanova_repeated",
-    "href": "output.html#all_anovaanova_repeated",
-    "title": "2  JASP GIF Library",
-    "section": "2.8 3_All_ANOVA/ANOVA_Repeated",
-    "text": "2.8 3_All_ANOVA/ANOVA_Repeated\n\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
-    ]
-  },
-  {
-    "objectID": "output.html#all_anovabayesian_ancova",
-    "href": "output.html#all_anovabayesian_ancova",
-    "title": "2  JASP GIF Library",
-    "section": "2.9 3_All_ANOVA/Bayesian_ANCOVA",
-    "text": "2.9 3_All_ANOVA/Bayesian_ANCOVA\n\n.mp4",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
-    ]
-  },
-  {
-    "objectID": "output.html#all_anovabayesian_anova_factorial",
-    "href": "output.html#all_anovabayesian_anova_factorial",
-    "title": "2  JASP GIF Library",
-    "section": "2.10 3_All_ANOVA/Bayesian_ANOVA_Factorial",
-    "text": "2.10 3_All_ANOVA/Bayesian_ANOVA_Factorial\n\n.mp4",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
-    ]
-  },
-  {
-    "objectID": "output.html#all_anovabayesian_anova_oneway",
-    "href": "output.html#all_anovabayesian_anova_oneway",
-    "title": "2  JASP GIF Library",
-    "section": "2.11 3_All_ANOVA/Bayesian_ANOVA_Oneway",
-    "text": "2.11 3_All_ANOVA/Bayesian_ANOVA_Oneway\n\n.mp4",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
-    ]
-  },
-  {
-    "objectID": "output.html#all_anovabayesian_anova_repeated",
-    "href": "output.html#all_anovabayesian_anova_repeated",
-    "title": "2  JASP GIF Library",
-    "section": "2.12 3_All_ANOVA/Bayesian_ANOVA_Repeated",
-    "text": "2.12 3_All_ANOVA/Bayesian_ANOVA_Repeated\n\n.mp4",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
-    ]
-  },
-  {
-    "objectID": "output.html#all_regressionbayesian_correlation",
-    "href": "output.html#all_regressionbayesian_correlation",
-    "title": "2  JASP GIF Library",
-    "section": "2.13 4_All_Regression/Bayesian_Correlation",
-    "text": "2.13 4_All_Regression/Bayesian_Correlation\n\n.mp4",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
-    ]
-  },
-  {
-    "objectID": "output.html#all_regressionbayesian_regression",
-    "href": "output.html#all_regressionbayesian_regression",
-    "title": "2  JASP GIF Library",
-    "section": "2.14 4_All_Regression/Bayesian_Regression",
-    "text": "2.14 4_All_Regression/Bayesian_Regression\n\n.mp4",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
-    ]
-  },
-  {
-    "objectID": "output.html#all_regressioncorrelation",
-    "href": "output.html#all_regressioncorrelation",
-    "title": "2  JASP GIF Library",
-    "section": "2.15 4_All_Regression/Correlation",
-    "text": "2.15 4_All_Regression/Correlation\n\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
-    ]
-  },
-  {
-    "objectID": "output.html#all_regressionregression",
-    "href": "output.html#all_regressionregression",
-    "title": "2  JASP GIF Library",
-    "section": "2.16 4_All_Regression/Regression",
-    "text": "2.16 4_All_Regression/Regression\n\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4\n.mp4",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
-    ]
-  },
-  {
-    "objectID": "output.html#all_frequenciesbayesian_binomial_test",
-    "href": "output.html#all_frequenciesbayesian_binomial_test",
-    "title": "2  JASP GIF Library",
-    "section": "2.17 5_All_Frequencies/Bayesian_Binomial_Test",
-    "text": "2.17 5_All_Frequencies/Bayesian_Binomial_Test\n\n.mp4",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
-    ]
-  },
-  {
-    "objectID": "output.html#all_frequenciesbayesian_contingency_table",
-    "href": "output.html#all_frequenciesbayesian_contingency_table",
-    "title": "2  JASP GIF Library",
-    "section": "2.18 5_All_Frequencies/Bayesian_Contingency_Table",
-    "text": "2.18 5_All_Frequencies/Bayesian_Contingency_Table\n\n.mp4",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
-    ]
-  },
-  {
-    "objectID": "output.html#all_frequenciesbinomial_test",
-    "href": "output.html#all_frequenciesbinomial_test",
-    "title": "2  JASP GIF Library",
-    "section": "2.19 5_All_Frequencies/Binomial_Test",
-    "text": "2.19 5_All_Frequencies/Binomial_Test\n\n.mp4",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
-    ]
-  },
-  {
-    "objectID": "output.html#all_frequenciescontingency_table",
-    "href": "output.html#all_frequenciescontingency_table",
-    "title": "2  JASP GIF Library",
-    "section": "2.20 5_All_Frequencies/Contingency_Table",
-    "text": "2.20 5_All_Frequencies/Contingency_Table\n\n.mp4",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
-    ]
-  },
-  {
-    "objectID": "output.html#all_factorcfa",
-    "href": "output.html#all_factorcfa",
-    "title": "2  JASP GIF Library",
-    "section": "2.21 6_All_Factor/CFA",
-    "text": "2.21 6_All_Factor/CFA\n\n.mp4",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
-    ]
-  },
-  {
-    "objectID": "output.html#all_factorefa",
-    "href": "output.html#all_factorefa",
-    "title": "2  JASP GIF Library",
-    "section": "2.22 6_All_Factor/EFA",
-    "text": "2.22 6_All_Factor/EFA\n\n.mp4",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
-    ]
-  },
-  {
-    "objectID": "output.html#all_factorpca",
-    "href": "output.html#all_factorpca",
-    "title": "2  JASP GIF Library",
-    "section": "2.23 6_All_Factor/PCA",
-    "text": "2.23 6_All_Factor/PCA\n\n.mp4",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
-    ]
-  },
-  {
-    "objectID": "output.html#meta_analysis",
-    "href": "output.html#meta_analysis",
-    "title": "2  JASP GIF Library",
-    "section": "2.24 7_Meta_Analysis",
-    "text": "2.24 7_Meta_Analysis\n\n.mp4\n.mp4",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
-    ]
-  },
-  {
-    "objectID": "output.html#network_analysis",
-    "href": "output.html#network_analysis",
-    "title": "2  JASP GIF Library",
-    "section": "2.25 8_Network_Analysis",
-    "text": "2.25 8_Network_Analysis\n\n.mp4",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
-    ]
-  },
-  {
-    "objectID": "output.html#mediation",
-    "href": "output.html#mediation",
-    "title": "2  JASP GIF Library",
-    "section": "2.26 9_Mediation",
-    "text": "2.26 9_Mediation\n\n.mp4\n.mp4\n.mp4",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>JASP GIF Library</span>"
-    ]
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "The JASP Video Library",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>jasp-video-library</span>"
-    ]
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "_qmd/0_Getting_Started.html#getting-started",
+    "href": "_qmd/0_Getting_Started.html#getting-started",
+    "title": "2  Getting Started",
+    "section": "2.1 Getting Started",
+    "text": "2.1 Getting Started\n\n\n\n\n\n\n\nTitle\nLink\n\n\n\n\nSum Score\nOpen Video\n\n\nMean Score\nOpen Video\n\n\nLoading Data\nOpen Video\n\n\nRenaming Categories\nOpen Video\n\n\nReordering Categories\nOpen Video\n\n\nCenter Variable\nOpen Video\n\n\nCompute New Column\nOpen Video\n\n\nFilter by Group\nOpen Video\n\n\nFilter Drag and Drop\nOpen Video\n\n\nConvert to Ranks\nOpen Video\n\n\nR How To\nOpen Video"
+  },
+  {
+    "objectID": "_qmd/1_Descriptives.html#descriptives",
+    "href": "_qmd/1_Descriptives.html#descriptives",
+    "title": "3  Descriptives",
+    "section": "3.1 Descriptives",
+    "text": "3.1 Descriptives\n\n\n\n\n\n\n\nTitle\nLink\n\n\n\n\nMain Analysis\nOpen Video\n\n\nAssumption Checks\nOpen Video\n\n\nDistribution and Box Plots\nOpen Video\n\n\nScatter Plot\nOpen Video\n\n\nPie Charts\nOpen Video\n\n\nDispersion\nOpen Video"
+  },
+  {
+    "objectID": "_qmd/2_All_T-Tests.html#bayesian-ttest",
+    "href": "_qmd/2_All_T-Tests.html#bayesian-ttest",
+    "title": "4  All T-Tests",
+    "section": "4.1 Bayesian TTest",
+    "text": "4.1 Bayesian TTest\n\n\n\n\n\n\n\nTitle\nLink\n\n\n\n\nIndependent\nOpen Video\n\n\nOne Sample\nOpen Video\n\n\nPaired\nOpen Video"
+  },
+  {
+    "objectID": "_qmd/2_All_T-Tests.html#ttest",
+    "href": "_qmd/2_All_T-Tests.html#ttest",
+    "title": "4  All T-Tests",
+    "section": "4.2 TTest",
+    "text": "4.2 TTest\n\n\n\n\n\n\n\nTitle\nLink\n\n\n\n\nIndependent Main Analysis\nOpen Video\n\n\nMean Difference\nOpen Video\n\n\nAssumption Checks\nOpen Video\n\n\nPlots\nOpen Video\n\n\nEffect Size\nOpen Video\n\n\nOne Sample All\nOpen Video\n\n\nPaired All\nOpen Video"
+  },
+  {
+    "objectID": "_qmd/3_All_ANOVA.html#ancova",
+    "href": "_qmd/3_All_ANOVA.html#ancova",
+    "title": "5  All ANOVA",
+    "section": "5.1 ANCOVA",
+    "text": "5.1 ANCOVA\n\n\n\n\n\n\n\nTitle\nLink\n\n\n\n\nMain Analysis\nOpen Video\n\n\nDescriptives Plots\nOpen Video"
+  },
+  {
+    "objectID": "_qmd/3_All_ANOVA.html#anova-factorial",
+    "href": "_qmd/3_All_ANOVA.html#anova-factorial",
+    "title": "5  All ANOVA",
+    "section": "5.2 ANOVA Factorial",
+    "text": "5.2 ANOVA Factorial\n\n\n\n\n\n\n\nTitle\nLink\n\n\n\n\nEffect Size\nOpen Video\n\n\nSimple Main Effects\nOpen Video\n\n\nNonparametric\nOpen Video\n\n\nMain Analysis\nOpen Video\n\n\nNormality And Homogeniety Check\nOpen Video\n\n\nPlots\nOpen Video\n\n\nContrasts\nOpen Video\n\n\nPost Hoc Tests\nOpen Video"
+  },
+  {
+    "objectID": "_qmd/3_All_ANOVA.html#anova-oneway",
+    "href": "_qmd/3_All_ANOVA.html#anova-oneway",
+    "title": "5  All ANOVA",
+    "section": "5.3 ANOVA Oneway",
+    "text": "5.3 ANOVA Oneway\n\n\n\n\n\n\n\nTitle\nLink\n\n\n\n\nNormality And Homogeniety Check\nOpen Video\n\n\nEffect Size\nOpen Video\n\n\nMain Analysis\nOpen Video"
+  },
+  {
+    "objectID": "_qmd/3_All_ANOVA.html#anova-repeated",
+    "href": "_qmd/3_All_ANOVA.html#anova-repeated",
+    "title": "5  All ANOVA",
+    "section": "5.4 ANOVA Repeated",
+    "text": "5.4 ANOVA Repeated\n\n\n\n\n\n\n\nTitle\nLink\n\n\n\n\nMain Analysis\nOpen Video\n\n\nHomogeneity Test\nOpen Video\n\n\nPlots\nOpen Video\n\n\nEffect Size\nOpen Video\n\n\nContrasts\nOpen Video\n\n\nPost Hoc Tests\nOpen Video\n\n\nSphericity Test\nOpen Video\n\n\nQQ Plot\nOpen Video"
+  },
+  {
+    "objectID": "_qmd/3_All_ANOVA.html#bayesian-ancova",
+    "href": "_qmd/3_All_ANOVA.html#bayesian-ancova",
+    "title": "5  All ANOVA",
+    "section": "5.5 Bayesian ANCOVA",
+    "text": "5.5 Bayesian ANCOVA\n\n\n\n\n\n\n\nTitle\nLink\n\n\n\n\nMain Analysis\nOpen Video"
+  },
+  {
+    "objectID": "_qmd/3_All_ANOVA.html#bayesian-anova-factorial",
+    "href": "_qmd/3_All_ANOVA.html#bayesian-anova-factorial",
+    "title": "5  All ANOVA",
+    "section": "5.6 Bayesian ANOVA Factorial",
+    "text": "5.6 Bayesian ANOVA Factorial\n\n\n\n\n\n\n\nTitle\nLink\n\n\n\n\nMain Analysis\nOpen Video"
+  },
+  {
+    "objectID": "_qmd/3_All_ANOVA.html#bayesian-anova-oneway",
+    "href": "_qmd/3_All_ANOVA.html#bayesian-anova-oneway",
+    "title": "5  All ANOVA",
+    "section": "5.7 Bayesian ANOVA Oneway",
+    "text": "5.7 Bayesian ANOVA Oneway\n\n\n\n\n\n\n\nTitle\nLink\n\n\n\n\nMain Analysis\nOpen Video"
+  },
+  {
+    "objectID": "_qmd/3_All_ANOVA.html#bayesian-anova-repeated",
+    "href": "_qmd/3_All_ANOVA.html#bayesian-anova-repeated",
+    "title": "5  All ANOVA",
+    "section": "5.8 Bayesian ANOVA Repeated",
+    "text": "5.8 Bayesian ANOVA Repeated\n\n\n\n\n\n\n\nTitle\nLink\n\n\n\n\nMain Analysis\nOpen Video"
+  },
+  {
+    "objectID": "_qmd/4_All_Regression.html#bayesian-correlation",
+    "href": "_qmd/4_All_Regression.html#bayesian-correlation",
+    "title": "6  All Regression",
+    "section": "6.1 Bayesian Correlation",
+    "text": "6.1 Bayesian Correlation\n\n\n\n\n\n\n\nTitle\nLink\n\n\n\n\nMain Analysis\nOpen Video"
+  },
+  {
+    "objectID": "_qmd/4_All_Regression.html#bayesian-regression",
+    "href": "_qmd/4_All_Regression.html#bayesian-regression",
+    "title": "6  All Regression",
+    "section": "6.2 Bayesian Regression",
+    "text": "6.2 Bayesian Regression\n\n\n\n\n\n\n\nTitle\nLink\n\n\n\n\nMain Analysis\nOpen Video"
+  },
+  {
+    "objectID": "_qmd/4_All_Regression.html#correlation",
+    "href": "_qmd/4_All_Regression.html#correlation",
+    "title": "6  All Regression",
+    "section": "6.3 Correlation",
+    "text": "6.3 Correlation\n\n\n\n\n\n\n\nTitle\nLink\n\n\n\n\nMain Analysis\nOpen Video\n\n\nMain Analysis Partial\nOpen Video\n\n\nAssumption Checks\nOpen Video\n\n\nPlots\nOpen Video\n\n\nPairwise\nOpen Video\n\n\nVarious Coefficients\nOpen Video"
+  },
+  {
+    "objectID": "_qmd/4_All_Regression.html#regression",
+    "href": "_qmd/4_All_Regression.html#regression",
+    "title": "6  All Regression",
+    "section": "6.4 Regression",
+    "text": "6.4 Regression\n\n\n\n\n\n\n\nTitle\nLink\n\n\n\n\nMain Analysis Single Predictor\nOpen Video\n\n\nMain Analysis Multiple Predictors\nOpen Video\n\n\nHierarchical Regression\nOpen Video\n\n\nAssumption Checks\nOpen Video\n\n\nBootstrap Confidence Interval\nOpen Video\n\n\nCooks Distance\nOpen Video\n\n\nLogistic Regression\nOpen Video"
+  },
+  {
+    "objectID": "_qmd/5_All_Frequencies.html#bayesian-binomial-test",
+    "href": "_qmd/5_All_Frequencies.html#bayesian-binomial-test",
+    "title": "7  All Frequencies",
+    "section": "7.1 Bayesian Binomial Test",
+    "text": "7.1 Bayesian Binomial Test\n\n\n\n\n\n\n\nTitle\nLink\n\n\n\n\nMain Analysis\nOpen Video"
+  },
+  {
+    "objectID": "_qmd/5_All_Frequencies.html#bayesian-contingency-table",
+    "href": "_qmd/5_All_Frequencies.html#bayesian-contingency-table",
+    "title": "7  All Frequencies",
+    "section": "7.2 Bayesian Contingency Table",
+    "text": "7.2 Bayesian Contingency Table\n\n\n\n\n\n\n\nTitle\nLink\n\n\n\n\nMain Analysis\nOpen Video"
+  },
+  {
+    "objectID": "_qmd/5_All_Frequencies.html#binomial-test",
+    "href": "_qmd/5_All_Frequencies.html#binomial-test",
+    "title": "7  All Frequencies",
+    "section": "7.3 Binomial Test",
+    "text": "7.3 Binomial Test\n\n\n\n\n\n\n\nTitle\nLink\n\n\n\n\nMain Analysis\nOpen Video"
+  },
+  {
+    "objectID": "_qmd/5_All_Frequencies.html#contingency-table",
+    "href": "_qmd/5_All_Frequencies.html#contingency-table",
+    "title": "7  All Frequencies",
+    "section": "7.4 Contingency Table",
+    "text": "7.4 Contingency Table\n\n\n\n\n\n\n\nTitle\nLink\n\n\n\n\nMain Analysis\nOpen Video"
+  },
+  {
+    "objectID": "_qmd/6_All_Factor.html#cfa",
+    "href": "_qmd/6_All_Factor.html#cfa",
+    "title": "8  All Factor",
+    "section": "8.1 CFA",
+    "text": "8.1 CFA\n\n\n\n\n\n\n\nTitle\nLink\n\n\n\n\nMain Analysis\nOpen Video"
+  },
+  {
+    "objectID": "_qmd/6_All_Factor.html#efa",
+    "href": "_qmd/6_All_Factor.html#efa",
+    "title": "8  All Factor",
+    "section": "8.2 EFA",
+    "text": "8.2 EFA\n\n\n\n\n\n\n\nTitle\nLink\n\n\n\n\nMain Analysis\nOpen Video"
+  },
+  {
+    "objectID": "_qmd/6_All_Factor.html#pca",
+    "href": "_qmd/6_All_Factor.html#pca",
+    "title": "8  All Factor",
+    "section": "8.3 PCA",
+    "text": "8.3 PCA\n\n\n\n\n\n\n\nTitle\nLink\n\n\n\n\nMain Analysis\nOpen Video"
+  },
+  {
+    "objectID": "_qmd/7_Meta_Analysis.html#meta-analysis",
+    "href": "_qmd/7_Meta_Analysis.html#meta-analysis",
+    "title": "9  Meta Analysis",
+    "section": "9.1 Meta Analysis",
+    "text": "9.1 Meta Analysis\n\n\n\n\n\n\n\nTitle\nLink\n\n\n\n\nEffect Size Computation\nOpen Video\n\n\nMain Analysis\nOpen Video"
+  },
+  {
+    "objectID": "_qmd/8_Network_Analysis.html#network-analysis",
+    "href": "_qmd/8_Network_Analysis.html#network-analysis",
+    "title": "10  Network Analysis",
+    "section": "10.1 Network Analysis",
+    "text": "10.1 Network Analysis\n\n\n\n\n\n\n\nTitle\nLink\n\n\n\n\nMain Analysis\nOpen Video"
+  },
+  {
+    "objectID": "_qmd/9_Mediation.html#mediation",
+    "href": "_qmd/9_Mediation.html#mediation",
+    "title": "11  Mediation",
+    "section": "11.1 Mediation",
+    "text": "11.1 Mediation\n\n\n\n\n\n\n\nTitle\nLink\n\n\n\n\nLoad Module\nOpen Video\n\n\nMain Analysis\nOpen Video\n\n\nPlot\nOpen Video"
   }
 ]

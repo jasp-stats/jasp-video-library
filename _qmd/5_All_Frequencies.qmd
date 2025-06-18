@@ -1,0 +1,26 @@
+# All Frequencies
+
+## Bayesian Binomial Test
+
+|Title         |Link                                                                                                                          |
+|:-------------|:-----------------------------------------------------------------------------------------------------------------------------|
+|Main Analysis |<a href="/5_All_Frequencies/Bayesian_Binomial_Test/Bayesian_Binomial_Test_1_Main-Analysis.mp4" target="_blank">Open Video</a> |
+
+## Bayesian Contingency Table
+
+|Title         |Link                                                                                                                                  |
+|:-------------|:-------------------------------------------------------------------------------------------------------------------------------------|
+|Main Analysis |<a href="/5_All_Frequencies/Bayesian_Contingency_Table/Bayesian_Contingency_Table_1_Main-Analysis.mp4" target="_blank">Open Video</a> |
+
+## Binomial Test
+
+|Title         |Link                                                                                                        |
+|:-------------|:-----------------------------------------------------------------------------------------------------------|
+|Main Analysis |<a href="/5_All_Frequencies/Binomial_Test/Binomial_Test_1_Main-Analysis.mp4" target="_blank">Open Video</a> |
+
+## Contingency Table
+
+|Title         |Link                                                                                                          |
+|:-------------|:-------------------------------------------------------------------------------------------------------------|
+|Main Analysis |<a href="/5_All_Frequencies/Contingency_Table/Contingency_1_Main-Analysis.mp4" target="_blank">Open Video</a> |
+

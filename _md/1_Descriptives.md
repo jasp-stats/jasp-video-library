@@ -1,0 +1,28 @@
+# Descriptives
+
+## Descriptives
+
+### Main Analysis
+
+<video width="600" controls><source src="/assets/../GitHubStuff/jasp-video-library/assets/videos/1_Descriptives/Descriptives_1_Main-Analysis.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+### Assumption Checks
+
+<video width="600" controls><source src="/assets/../GitHubStuff/jasp-video-library/assets/videos/1_Descriptives/Descriptives_2_Assumption-Checks.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+### Distribution and Box Plots
+
+<video width="600" controls><source src="/assets/../GitHubStuff/jasp-video-library/assets/videos/1_Descriptives/Descriptives_3_Distribution-and-Box-Plots.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+### Scatter Plot
+
+<video width="600" controls><source src="/assets/../GitHubStuff/jasp-video-library/assets/videos/1_Descriptives/Descriptives_4_Scatter-Plot.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+### Pie Charts
+
+<video width="600" controls><source src="/assets/../GitHubStuff/jasp-video-library/assets/videos/1_Descriptives/Descriptives_5_Pie-Charts.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+### Dispersion
+
+<video width="600" controls><source src="/assets/../GitHubStuff/jasp-video-library/assets/videos/1_Descriptives/Descriptives_6_Dispersion.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
