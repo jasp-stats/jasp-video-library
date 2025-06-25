@@ -3,3 +3,7 @@ title: "Preface"
 ---
 
 This is a very cool website where we will serve very cool instructional videos about JASP.
+
+### Want to Contribute?{.unnumbered .no-toc}
+
+Awesome, we are always looking to expand our library with more instructional video's! If you are familiar with GitHub, you can visit [our repository](https://github.com/jasp-stats/jasp-video-library). If not, you can send your instructional video's over by [e-mailing Johnny](mailto:j.b.vandoorn@uva.nl)

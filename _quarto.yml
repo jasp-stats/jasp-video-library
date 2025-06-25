@@ -2,7 +2,8 @@ project:
   type: book
   output-dir: docs
   resources:
-  - assets
+  - assets/videos
+  - assets/images
 
 book:
   title: "The JASP Video Library"
@@ -23,6 +24,7 @@ book:
 format:
   html:
     theme: bootstrap
+    css: custom.css
   pdf:
     documentclass: scrreprt
 
