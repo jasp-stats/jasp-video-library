@@ -6,4 +6,4 @@ Here you will find screen-recordings that demonstrate all sorts of lovely analys
 
 ### Want to Contribute?{.unnumbered .no-toc}
 
-Awesome! We are always looking to expand our library with more instructional video's! You can do so via [GitHub](https://github.com/jasp-stats/jasp-video-library). If not, you can send your instructional video's by [e-mail](mailto:j.b.vandoorn@uva.nl). Please see [our repository](https://github.com/jasp-stats/jasp-video-library) for more detailed instructions.
+Awesome! We are always looking to expand our library with more instructional video's! You can do so via [GitHub](https://github.com/jasp-stats/jasp-video-library), or you can send your instructional video's by [e-mail](mailto:j.b.vandoorn@uva.nl). Please see [our repository](https://github.com/jasp-stats/jasp-video-library) for more detailed instructions.
