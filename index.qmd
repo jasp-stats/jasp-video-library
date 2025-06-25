@@ -1,9 +1,9 @@
 ---
-title: "Preface"
+title: "Welcome!"
 ---
 
-Here you will find screenrecordings that illustrate all sorts of lovely analyses in JASP. 
+Here you will find screen-recordings that demonstrate all sorts of lovely analyses in JASP.
 
 ### Want to Contribute?{.unnumbered .no-toc}
 
-Awesome! We are always looking to expand our library with more instructional video's! If you are familiar with GitHub, you can visit [our repository](https://github.com/jasp-stats/jasp-video-library) for more detailed instructions. If not, you can send your instructional video's over by [e-mailing Johnny](mailto:j.b.vandoorn@uva.nl). Please make sure to use the `.mp4` file format, and to record your video on a high-resolution screen.
+Awesome! We are always looking to expand our library with more instructional video's! You can do so via [GitHub](https://github.com/jasp-stats/jasp-video-library). If not, you can send your instructional video's by [e-mail](mailto:j.b.vandoorn@uva.nl). Please see [our repository](https://github.com/jasp-stats/jasp-video-library) for more detailed instructions.
