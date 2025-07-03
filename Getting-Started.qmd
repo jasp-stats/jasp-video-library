@@ -22,6 +22,10 @@
 
 <video width="600" controls><source src="/jasp-video-library/assets/videos/Getting-Started/Getting_Started_05_Compute-New-Column.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
+### Use If Else
+
+<video width="600" controls><source src="/jasp-video-library/assets/videos/Getting-Started/Getting_Started_05_Use-If-Else.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
 ### Filter by Group
 
 <video width="600" controls><source src="/jasp-video-library/assets/videos/Getting-Started/Getting_Started_06_Filter-by-Group.mp4" type="video/mp4">Your browser does not support the video tag.</video>
@@ -34,15 +38,39 @@
 
 <video width="600" controls><source src="/jasp-video-library/assets/videos/Getting-Started/Getting_Started_08_Convert-to-Ranks.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
-### R How To
+### Enable R Module
 
-<video width="600" controls><source src="/jasp-video-library/assets/videos/Getting-Started/Getting_Started_09_R-How-To.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video width="600" controls><source src="/jasp-video-library/assets/videos/Getting-Started/Getting_Started_09_Enable-R-Module.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
-### Sum Score
+### Drag and Drop RowMean
 
-<video width="600" controls><source src="/jasp-video-library/assets/videos/Getting-Started/Getting_Started_10_Sum-Score.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video width="600" controls><source src="/jasp-video-library/assets/videos/Getting-Started/Getting_Started_10_Drag-and-Drop-RowMean.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
-### Mean Score
+### Drag and Drop RowSum
 
-<video width="600" controls><source src="/jasp-video-library/assets/videos/Getting-Started/Getting_Started_11_Mean-Score.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video width="600" controls><source src="/jasp-video-library/assets/videos/Getting-Started/Getting_Started_11_Drag-and-Drop-RowSum.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+### R RowSum
+
+<video width="600" controls><source src="/jasp-video-library/assets/videos/Getting-Started/Getting_Started_12_R-RowSum.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+### R RowMean
+
+<video width="600" controls><source src="/jasp-video-library/assets/videos/Getting-Started/Getting_Started_13_R-RowMean.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+### Add Levels
+
+<video width="600" controls><source src="/jasp-video-library/assets/videos/Getting-Started/Getting_Started_14_Add-Levels.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+### Reverse Code Single
+
+<video width="600" controls><source src="/jasp-video-library/assets/videos/Getting-Started/Getting_Started_15_Reverse-Code-Single.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+### Reverse Code Multiple
+
+<video width="600" controls><source src="/jasp-video-library/assets/videos/Getting-Started/Getting_Started_16_Reverse-Code-Multiple.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+### Statistical Test Flowchart
+
+<video width="600" controls><source src="/jasp-video-library/assets/videos/Getting-Started/Getting_Started_17_Statistical-Test-Flowchart.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 

@@ -2,7 +2,7 @@
 title: "Welcome!"
 ---
 
-Here you will find screen-recordings that demonstrate all sorts of lovely analyses in JASP.
+Here you will find screen-recordings that demonstrate all sorts of cool analyses and functionality in JASP.
 
 ### Want to Contribute?{.unnumbered .no-toc}
 

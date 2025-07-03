@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "The JASP Video Library",
     "section": "",
-    "text": "Here you will find screen-recordings that demonstrate all sorts of lovely analyses in JASP.\n\nWant to Contribute?\nAwesome! We are always looking to expand our library with more instructional video’s! You can do so via GitHub, or you can send your instructional video’s by e-mail. Please see our repository for more detailed instructions."
+    "text": "Here you will find screen-recordings that demonstrate all sorts of cool analyses and functionality in JASP.\n\nWant to Contribute?\nAwesome! We are always looking to expand our library with more instructional video’s! You can do so via GitHub, or you can send your instructional video’s by e-mail. Please see our repository for more detailed instructions."
   },
   {
     "objectID": "Getting-Started.html#getting-started",
     "href": "Getting-Started.html#getting-started",
     "title": "2  Getting-Started",
     "section": "2.1 Getting-Started",
-    "text": "2.1 Getting-Started\n\n2.1.1 Loading Data\n\n\nYour browser does not support the video tag.\n\n\n2.1.2 Renaming Categories\n\n\nYour browser does not support the video tag.\n\n\n2.1.3 Reordering Categories\n\n\nYour browser does not support the video tag.\n\n\n2.1.4 Center Variable\n\n\nYour browser does not support the video tag.\n\n\n2.1.5 Compute New Column\n\n\nYour browser does not support the video tag.\n\n\n2.1.6 Filter by Group\n\n\nYour browser does not support the video tag.\n\n\n2.1.7 Filter Drag and Drop\n\n\nYour browser does not support the video tag.\n\n\n2.1.8 Convert to Ranks\n\n\nYour browser does not support the video tag.\n\n\n2.1.9 R How To\n\n\nYour browser does not support the video tag.\n\n\n2.1.10 Sum Score\n\n\nYour browser does not support the video tag.\n\n\n2.1.11 Mean Score\n\n\nYour browser does not support the video tag."
+    "text": "2.1 Getting-Started\n\n2.1.1 Loading Data\n\n\nYour browser does not support the video tag.\n\n\n2.1.2 Renaming Categories\n\n\nYour browser does not support the video tag.\n\n\n2.1.3 Reordering Categories\n\n\nYour browser does not support the video tag.\n\n\n2.1.4 Center Variable\n\n\nYour browser does not support the video tag.\n\n\n2.1.5 Compute New Column\n\n\nYour browser does not support the video tag.\n\n\n2.1.6 Use If Else\n\n\nYour browser does not support the video tag.\n\n\n2.1.7 Filter by Group\n\n\nYour browser does not support the video tag.\n\n\n2.1.8 Filter Drag and Drop\n\n\nYour browser does not support the video tag.\n\n\n2.1.9 Convert to Ranks\n\n\nYour browser does not support the video tag.\n\n\n2.1.10 Enable R Module\n\n\nYour browser does not support the video tag.\n\n\n2.1.11 Drag and Drop RowMean\n\n\nYour browser does not support the video tag.\n\n\n2.1.12 Drag and Drop RowSum\n\n\nYour browser does not support the video tag.\n\n\n2.1.13 R RowSum\n\n\nYour browser does not support the video tag.\n\n\n2.1.14 R RowMean\n\n\nYour browser does not support the video tag.\n\n\n2.1.15 Add Levels\n\n\nYour browser does not support the video tag.\n\n\n2.1.16 Reverse Code Single\n\n\nYour browser does not support the video tag.\n\n\n2.1.17 Reverse Code Multiple\n\n\nYour browser does not support the video tag.\n\n\n2.1.18 Statistical Test Flowchart\n\n\nYour browser does not support the video tag."
   },
   {
     "objectID": "Descriptives.html#descriptives",
@@ -21,18 +21,18 @@
     "text": "3.1 Descriptives\n\n3.1.1 Main Analysis\n\n\nYour browser does not support the video tag.\n\n\n3.1.2 Assumption Checks\n\n\nYour browser does not support the video tag.\n\n\n3.1.3 Distribution and Box Plots\n\n\nYour browser does not support the video tag.\n\n\n3.1.4 Scatter Plot\n\n\nYour browser does not support the video tag.\n\n\n3.1.5 Pie Charts\n\n\nYour browser does not support the video tag.\n\n\n3.1.6 Dispersion\n\n\nYour browser does not support the video tag."
   },
   {
-    "objectID": "All_T-Tests.html#bayesian-ttest",
-    "href": "All_T-Tests.html#bayesian-ttest",
-    "title": "4  T-Tests",
-    "section": "4.1 Bayesian TTest",
-    "text": "4.1 Bayesian TTest\n\n4.1.1 Independent\n\n\nYour browser does not support the video tag.\n\n\n4.1.2 One Sample\n\n\nYour browser does not support the video tag.\n\n\n4.1.3 Paired\n\n\nYour browser does not support the video tag."
-  },
-  {
     "objectID": "All_T-Tests.html#ttest",
     "href": "All_T-Tests.html#ttest",
     "title": "4  T-Tests",
-    "section": "4.2 TTest",
-    "text": "4.2 TTest\n\n4.2.1 Independent Main Analysis\n\n\nYour browser does not support the video tag.\n\n\n4.2.2 Mean Difference\n\n\nYour browser does not support the video tag.\n\n\n4.2.3 Assumption Checks\n\n\nYour browser does not support the video tag.\n\n\n4.2.4 Plots\n\n\nYour browser does not support the video tag.\n\n\n4.2.5 Effect Size\n\n\nYour browser does not support the video tag.\n\n\n4.2.6 One Sample All\n\n\nYour browser does not support the video tag.\n\n\n4.2.7 Paired All\n\n\nYour browser does not support the video tag."
+    "section": "4.1 TTest",
+    "text": "4.1 TTest\n\n4.1.1 Independent Main Analysis\n\n\nYour browser does not support the video tag.\n\n\n4.1.2 Mean Difference\n\n\nYour browser does not support the video tag.\n\n\n4.1.3 Assumption Checks\n\n\nYour browser does not support the video tag.\n\n\n4.1.4 Plots\n\n\nYour browser does not support the video tag.\n\n\n4.1.5 Effect Size\n\n\nYour browser does not support the video tag.\n\n\n4.1.6 One Sample All\n\n\nYour browser does not support the video tag.\n\n\n4.1.7 Paired All\n\n\nYour browser does not support the video tag."
+  },
+  {
+    "objectID": "All_T-Tests.html#bayesian-ttest",
+    "href": "All_T-Tests.html#bayesian-ttest",
+    "title": "4  T-Tests",
+    "section": "4.2 Bayesian TTest",
+    "text": "4.2 Bayesian TTest\n\n4.2.1 Independent\n\n\nYour browser does not support the video tag.\n\n\n4.2.2 One Sample\n\n\nYour browser does not support the video tag.\n\n\n4.2.3 Paired\n\n\nYour browser does not support the video tag."
   },
   {
     "objectID": "All_ANOVA.html#anova-oneway",
@@ -91,60 +91,60 @@
     "text": "5.8 Bayesian ANOVA Repeated\n\n5.8.1 Main Analysis\n\n\nYour browser does not support the video tag."
   },
   {
-    "objectID": "All_Regression.html#bayesian-correlation",
-    "href": "All_Regression.html#bayesian-correlation",
-    "title": "6  Regression",
-    "section": "6.1 Bayesian Correlation",
-    "text": "6.1 Bayesian Correlation\n\n6.1.1 Main Analysis\n\n\nYour browser does not support the video tag."
-  },
-  {
-    "objectID": "All_Regression.html#bayesian-regression",
-    "href": "All_Regression.html#bayesian-regression",
-    "title": "6  Regression",
-    "section": "6.2 Bayesian Regression",
-    "text": "6.2 Bayesian Regression\n\n6.2.1 Main Analysis\n\n\nYour browser does not support the video tag."
-  },
-  {
     "objectID": "All_Regression.html#correlation",
     "href": "All_Regression.html#correlation",
     "title": "6  Regression",
-    "section": "6.3 Correlation",
-    "text": "6.3 Correlation\n\n6.3.1 Main Analysis\n\n\nYour browser does not support the video tag.\n\n\n6.3.2 Main Analysis Partial\n\n\nYour browser does not support the video tag.\n\n\n6.3.3 Assumption Checks\n\n\nYour browser does not support the video tag.\n\n\n6.3.4 Plots\n\n\nYour browser does not support the video tag.\n\n\n6.3.5 Pairwise\n\n\nYour browser does not support the video tag.\n\n\n6.3.6 Various Coefficients\n\n\nYour browser does not support the video tag."
+    "section": "6.1 Correlation",
+    "text": "6.1 Correlation\n\n6.1.1 Main Analysis\n\n\nYour browser does not support the video tag.\n\n\n6.1.2 Main Analysis Partial\n\n\nYour browser does not support the video tag.\n\n\n6.1.3 Assumption Checks\n\n\nYour browser does not support the video tag.\n\n\n6.1.4 Plots\n\n\nYour browser does not support the video tag.\n\n\n6.1.5 Pairwise\n\n\nYour browser does not support the video tag.\n\n\n6.1.6 Various Coefficients\n\n\nYour browser does not support the video tag."
   },
   {
     "objectID": "All_Regression.html#regression",
     "href": "All_Regression.html#regression",
     "title": "6  Regression",
-    "section": "6.4 Regression",
-    "text": "6.4 Regression\n\n6.4.1 Main Analysis Single Predictor\n\n\nYour browser does not support the video tag.\n\n\n6.4.2 Main Analysis Multiple Predictors\n\n\nYour browser does not support the video tag.\n\n\n6.4.3 Hierarchical Regression\n\n\nYour browser does not support the video tag.\n\n\n6.4.4 Assumption Checks\n\n\nYour browser does not support the video tag.\n\n\n6.4.5 Bootstrap Confidence Interval\n\n\nYour browser does not support the video tag.\n\n\n6.4.6 Cooks Distance\n\n\nYour browser does not support the video tag.\n\n\n6.4.7 Logistic Regression\n\n\nYour browser does not support the video tag."
+    "section": "6.2 Regression",
+    "text": "6.2 Regression\n\n6.2.1 Main Analysis Single Predictor\n\n\nYour browser does not support the video tag.\n\n\n6.2.2 Main Analysis Multiple Predictors\n\n\nYour browser does not support the video tag.\n\n\n6.2.3 Hierarchical Regression\n\n\nYour browser does not support the video tag.\n\n\n6.2.4 Assumption Checks\n\n\nYour browser does not support the video tag.\n\n\n6.2.5 Bootstrap Confidence Interval\n\n\nYour browser does not support the video tag.\n\n\n6.2.6 Cooks Distance\n\n\nYour browser does not support the video tag.\n\n\n6.2.7 Logistic Regression\n\n\nYour browser does not support the video tag."
   },
   {
-    "objectID": "All_Frequencies.html#bayesian-binomial-test",
-    "href": "All_Frequencies.html#bayesian-binomial-test",
-    "title": "7  Frequencies",
-    "section": "7.1 Bayesian Binomial Test",
-    "text": "7.1 Bayesian Binomial Test\n\n7.1.1 Main Analysis\n\n\nYour browser does not support the video tag."
+    "objectID": "All_Regression.html#bayesian-correlation",
+    "href": "All_Regression.html#bayesian-correlation",
+    "title": "6  Regression",
+    "section": "6.3 Bayesian Correlation",
+    "text": "6.3 Bayesian Correlation\n\n6.3.1 Main Analysis\n\n\nYour browser does not support the video tag."
   },
   {
-    "objectID": "All_Frequencies.html#bayesian-contingency-table",
-    "href": "All_Frequencies.html#bayesian-contingency-table",
-    "title": "7  Frequencies",
-    "section": "7.2 Bayesian Contingency Table",
-    "text": "7.2 Bayesian Contingency Table\n\n7.2.1 Main Analysis\n\n\n\nYour browser does not support the video tag."
+    "objectID": "All_Regression.html#bayesian-regression",
+    "href": "All_Regression.html#bayesian-regression",
+    "title": "6  Regression",
+    "section": "6.4 Bayesian Regression",
+    "text": "6.4 Bayesian Regression\n\n6.4.1 Main Analysis\n\n\nYour browser does not support the video tag."
   },
   {
     "objectID": "All_Frequencies.html#binomial-test",
     "href": "All_Frequencies.html#binomial-test",
     "title": "7  Frequencies",
-    "section": "7.3 Binomial Test",
-    "text": "7.3 Binomial Test\n\n7.3.1 Main Analysis\n\n\nYour browser does not support the video tag."
+    "section": "7.1 Binomial Test",
+    "text": "7.1 Binomial Test\n\n7.1.1 Main Analysis\n\n\nYour browser does not support the video tag."
   },
   {
     "objectID": "All_Frequencies.html#contingency-table",
     "href": "All_Frequencies.html#contingency-table",
     "title": "7  Frequencies",
-    "section": "7.4 Contingency Table",
-    "text": "7.4 Contingency Table\n\n7.4.1 Main Analysis\n\n\n\nYour browser does not support the video tag."
+    "section": "7.2 Contingency Table",
+    "text": "7.2 Contingency Table\n\n7.2.1 Main Analysis\n\n\n\nYour browser does not support the video tag."
+  },
+  {
+    "objectID": "All_Frequencies.html#bayesian-binomial-test",
+    "href": "All_Frequencies.html#bayesian-binomial-test",
+    "title": "7  Frequencies",
+    "section": "7.3 Bayesian Binomial Test",
+    "text": "7.3 Bayesian Binomial Test\n\n7.3.1 Main Analysis\n\n\nYour browser does not support the video tag."
+  },
+  {
+    "objectID": "All_Frequencies.html#bayesian-contingency-table",
+    "href": "All_Frequencies.html#bayesian-contingency-table",
+    "title": "7  Frequencies",
+    "section": "7.4 Bayesian Contingency Table",
+    "text": "7.4 Bayesian Contingency Table\n\n7.4.1 Main Analysis\n\n\n\nYour browser does not support the video tag."
   },
   {
     "objectID": "All_Factor-Analysis.html#cfa",
@@ -172,7 +172,7 @@
     "href": "Meta-Analysis.html#meta-analysis",
     "title": "9  Meta-Analysis",
     "section": "9.1 Meta-Analysis",
-    "text": "9.1 Meta-Analysis\n\n9.1.1 Effect Size Computation\n\n\nYour browser does not support the video tag.\n\n\n9.1.2 Main Analysis\n\n\nYour browser does not support the video tag."
+    "text": "9.1 Meta-Analysis\n\n9.1.1 Main Analysis\n\n\nYour browser does not support the video tag.\n\n\n9.1.2 Effect Size Computation\n\n\nYour browser does not support the video tag."
   },
   {
     "objectID": "Network-Analysis.html#network-analysis",
