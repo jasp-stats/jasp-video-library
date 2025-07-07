@@ -6,9 +6,9 @@
 
 <video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/1_ANOVA_Oneway/ANOVA_Oneway_1_Main-Analysis.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
-### Normality And Homogeniety Check
+### Normality And Homogeneity Check
 
-<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/1_ANOVA_Oneway/ANOVA_Oneway_2_Normality-And-Homogeniety-Check.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/1_ANOVA_Oneway/ANOVA_Oneway_2_Normality-And-Homogeneity-Check.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ### Effect Size
 
@@ -20,9 +20,9 @@
 
 <video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/2_ANOVA_Factorial/ANOVA_Factorial_1_Main-Analysis.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
-### Normality And Homogeniety Check
+### Normality And Homogeneity Check
 
-<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/2_ANOVA_Factorial/ANOVA_Factorial_2_Normality-And-Homogeniety-Check.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/2_ANOVA_Factorial/ANOVA_Factorial_2_Normality-And-Homogeneity-Check.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ### Effect Size
 
