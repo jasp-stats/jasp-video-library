@@ -17,9 +17,10 @@ book:
     - All_Regression.qmd
     - All_Frequencies.qmd
     - All_Factor-Analysis.qmd
+    - All_PROCESS.qmd
     - Meta-Analysis.qmd
     - Network-Analysis.qmd
-    - Mediation.qmd
+
 
 format:
   html:

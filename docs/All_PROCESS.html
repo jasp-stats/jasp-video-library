@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>The JASP Video Library - 11&nbsp; Mediation</title>
+<title>The JASP Video Library - 9&nbsp; PROCESS</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,7 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./Network-Analysis.html" rel="prev">
+<link href="./Meta-Analysis.html" rel="next">
+<link href="./All_Factor-Analysis.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -73,7 +74,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./Mediation.html"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Mediation</span></a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./All_PROCESS.html"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">PROCESS</span></a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -148,20 +149,20 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./All_PROCESS.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">PROCESS</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./Meta-Analysis.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Meta-Analysis</span></span></a>
+ <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Meta-Analysis</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./Network-Analysis.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Network-Analysis</span></span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./Mediation.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Mediation</span></span></a>
+ <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Network-Analysis</span></span></a>
   </div>
 </li>
     </ul>
@@ -174,11 +175,17 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#mediation" id="toc-mediation" class="nav-link active" data-scroll-target="#mediation"><span class="header-section-number">11.1</span> Mediation</a>
+  <li><a href="#mediation" id="toc-mediation" class="nav-link active" data-scroll-target="#mediation"><span class="header-section-number">9.1</span> Mediation</a>
   <ul class="collapse">
-  <li><a href="#load-module" id="toc-load-module" class="nav-link" data-scroll-target="#load-module"><span class="header-section-number">11.1.1</span> Load Module</a></li>
-  <li><a href="#main-analysis" id="toc-main-analysis" class="nav-link" data-scroll-target="#main-analysis"><span class="header-section-number">11.1.2</span> Main Analysis</a></li>
-  <li><a href="#plot" id="toc-plot" class="nav-link" data-scroll-target="#plot"><span class="header-section-number">11.1.3</span> Plot</a></li>
+  <li><a href="#specify-model" id="toc-specify-model" class="nav-link" data-scroll-target="#specify-model"><span class="header-section-number">9.1.1</span> Specify Model</a></li>
+  <li><a href="#specify-hayes-model" id="toc-specify-hayes-model" class="nav-link" data-scroll-target="#specify-hayes-model"><span class="header-section-number">9.1.2</span> Specify Hayes Model</a></li>
+  </ul></li>
+  <li><a href="#moderation" id="toc-moderation" class="nav-link" data-scroll-target="#moderation"><span class="header-section-number">9.2</span> Moderation</a>
+  <ul class="collapse">
+  <li><a href="#specify-model-1" id="toc-specify-model-1" class="nav-link" data-scroll-target="#specify-model-1"><span class="header-section-number">9.2.1</span> Specify Model</a></li>
+  <li><a href="#specify-hayes-model-1" id="toc-specify-hayes-model-1" class="nav-link" data-scroll-target="#specify-hayes-model-1"><span class="header-section-number">9.2.2</span> Specify Hayes Model</a></li>
+  <li><a href="#flexplot" id="toc-flexplot" class="nav-link" data-scroll-target="#flexplot"><span class="header-section-number">9.2.3</span> Flexplot</a></li>
+  <li><a href="#statistical-plot" id="toc-statistical-plot" class="nav-link" data-scroll-target="#statistical-plot"><span class="header-section-number">9.2.4</span> Statistical Plot</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -188,7 +195,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Mediation</span></h1>
+<h1 class="title"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">PROCESS</span></h1>
 </div>
 
 
@@ -203,24 +210,45 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="mediation" class="level2" data-number="11.1">
-<h2 data-number="11.1" class="anchored" data-anchor-id="mediation"><span class="header-section-number">11.1</span> Mediation</h2>
-<section id="load-module" class="level3" data-number="11.1.1">
-<h3 data-number="11.1.1" class="anchored" data-anchor-id="load-module"><span class="header-section-number">11.1.1</span> Load Module</h3>
+<section id="mediation" class="level2" data-number="9.1">
+<h2 data-number="9.1" class="anchored" data-anchor-id="mediation"><span class="header-section-number">9.1</span> Mediation</h2>
+<section id="specify-model" class="level3" data-number="9.1.1">
+<h3 data-number="9.1.1" class="anchored" data-anchor-id="specify-model"><span class="header-section-number">9.1.1</span> Specify Model</h3>
 <video width="600" controls="">
-<source src="/jasp-video-library/assets/videos/Mediation/Mediation_1_Load-Module.mp4" type="video/mp4">
+<source src="/jasp-video-library/assets/videos/All_PROCESS/Mediation/Mediation_1_Specify-Model.mp4" type="video/mp4">
 <p>Your browser does not support the video tag.</p>
 </video></section>
-<section id="main-analysis" class="level3" data-number="11.1.2">
-<h3 data-number="11.1.2" class="anchored" data-anchor-id="main-analysis"><span class="header-section-number">11.1.2</span> Main Analysis</h3>
+<section id="specify-hayes-model" class="level3" data-number="9.1.2">
+<h3 data-number="9.1.2" class="anchored" data-anchor-id="specify-hayes-model"><span class="header-section-number">9.1.2</span> Specify Hayes Model</h3>
 <video width="600" controls="">
-<source src="/jasp-video-library/assets/videos/Mediation/Mediation_2_Main-Analysis.mp4" type="video/mp4">
+<source src="/jasp-video-library/assets/videos/All_PROCESS/Mediation/Mediation_2_Specify-Hayes-Model.mp4" type="video/mp4">
 <p>Your browser does not support the video tag.</p>
 </video></section>
-<section id="plot" class="level3" data-number="11.1.3">
-<h3 data-number="11.1.3" class="anchored" data-anchor-id="plot"><span class="header-section-number">11.1.3</span> Plot</h3>
+</section>
+<section id="moderation" class="level2" data-number="9.2">
+<h2 data-number="9.2" class="anchored" data-anchor-id="moderation"><span class="header-section-number">9.2</span> Moderation</h2>
+<section id="specify-model-1" class="level3" data-number="9.2.1">
+<h3 data-number="9.2.1" class="anchored" data-anchor-id="specify-model-1"><span class="header-section-number">9.2.1</span> Specify Model</h3>
 <video width="600" controls="">
-<source src="/jasp-video-library/assets/videos/Mediation/Mediation_3_Plot.mp4" type="video/mp4">
+<source src="/jasp-video-library/assets/videos/All_PROCESS/Moderation/Moderation_1_Specify-Model.mp4" type="video/mp4">
+<p>Your browser does not support the video tag.</p>
+</video></section>
+<section id="specify-hayes-model-1" class="level3" data-number="9.2.2">
+<h3 data-number="9.2.2" class="anchored" data-anchor-id="specify-hayes-model-1"><span class="header-section-number">9.2.2</span> Specify Hayes Model</h3>
+<video width="600" controls="">
+<source src="/jasp-video-library/assets/videos/All_PROCESS/Moderation/Moderation_2_Specify-Hayes-Model.mp4" type="video/mp4">
+<p>Your browser does not support the video tag.</p>
+</video></section>
+<section id="flexplot" class="level3" data-number="9.2.3">
+<h3 data-number="9.2.3" class="anchored" data-anchor-id="flexplot"><span class="header-section-number">9.2.3</span> Flexplot</h3>
+<video width="600" controls="">
+<source src="/jasp-video-library/assets/videos/All_PROCESS/Moderation/Moderation_3_Flexplot.mp4" type="video/mp4">
+<p>Your browser does not support the video tag.</p>
+</video></section>
+<section id="statistical-plot" class="level3" data-number="9.2.4">
+<h3 data-number="9.2.4" class="anchored" data-anchor-id="statistical-plot"><span class="header-section-number">9.2.4</span> Statistical Plot</h3>
+<video width="600" controls="">
+<source src="/jasp-video-library/assets/videos/All_PROCESS/Moderation/Moderation_4_Statistical-Plot.mp4" type="video/mp4">
 <p>Your browser does not support the video tag.</p>
 
 
@@ -463,11 +491,14 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./Network-Analysis.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Network-Analysis</span></span>
+      <a href="./All_Factor-Analysis.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Factor-Analysis</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
+      <a href="./Meta-Analysis.html" class="pagination-link">
+        <span class="nav-page-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Meta-Analysis</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
   </div>
 </nav>
 </div> <!-- /content -->
