@@ -30,9 +30,13 @@
 
 <video width="600" controls><source src="/jasp-video-library/assets/videos/Getting-Started/Getting_Started_06_Filter-by-Group.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
-### Filter Drag and Drop
+### Filter Drag and Drop Categorical
 
-<video width="600" controls><source src="/jasp-video-library/assets/videos/Getting-Started/Getting_Started_07_Filter-Drag-and-Drop.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video width="600" controls><source src="/jasp-video-library/assets/videos/Getting-Started/Getting_Started_07_Filter-Drag-and-Drop-Categorical.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+### Filter Drag and Drop Scale
+
+<video width="600" controls><source src="/jasp-video-library/assets/videos/Getting-Started/Getting_Started_07_Filter-Drag-and-Drop-Scale.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ### Convert to Ranks
 
