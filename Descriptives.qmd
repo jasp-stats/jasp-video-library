@@ -10,9 +10,13 @@
 
 <video width="600" controls><source src="/jasp-video-library/assets/videos/Descriptives/Descriptives_2_Assumption-Checks.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
-### Distribution and Box Plots
+### Boxplots Outliers
 
-<video width="600" controls><source src="/jasp-video-library/assets/videos/Descriptives/Descriptives_3_Distribution-and-Box-Plots.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video width="600" controls><source src="/jasp-video-library/assets/videos/Descriptives/Descriptives_3_Boxplots-Outliers.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+### Distribution and Boxplots
+
+<video width="600" controls><source src="/jasp-video-library/assets/videos/Descriptives/Descriptives_3_Distribution-and-Boxplots.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ### Scatter Plot
 
