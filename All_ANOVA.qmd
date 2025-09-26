@@ -14,6 +14,14 @@
 
 <video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/1_ANOVA_Oneway/ANOVA_Oneway_3_Effect-Size.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
+### Custom Contrasts
+
+<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/1_ANOVA_Oneway/ANOVA_Oneway_4_Custom-Contrasts.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
+### Descriptive Plots
+
+<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/1_ANOVA_Oneway/ANOVA_Oneway_4_Descriptive-Plots.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
 ## ANOVA Factorial
 
 ### Main Analysis
