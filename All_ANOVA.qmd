@@ -62,9 +62,13 @@
 
 <video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/3_ANCOVA/ANCOVA_1_Main-Analysis.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
+### Add Interaction
+
+<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/3_ANCOVA/ANCOVA_2_Add-Interaction.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
 ### Descriptives Plots
 
-<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/3_ANCOVA/ANCOVA_2_Descriptives-Plots.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/3_ANCOVA/ANCOVA_3_Descriptives-Plots.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ## ANOVA Repeated
 
