@@ -48,13 +48,13 @@
 
 <video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/2_ANOVA_Factorial/ANOVA_Factorial_6_Post-Hoc-Tests.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
+### Post Hoc Tests Interaction
+
+<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/2_ANOVA_Factorial/ANOVA_Factorial_7_Post-Hoc-Tests-Interaction.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
 ### Simple Main Effects
 
-<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/2_ANOVA_Factorial/ANOVA_Factorial_7_Simple-Main-Effects.mp4" type="video/mp4">Your browser does not support the video tag.</video>
-
-### Nonparametric
-
-<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/2_ANOVA_Factorial/ANOVA_Factorial_8_Nonparametric.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/2_ANOVA_Factorial/ANOVA_Factorial_8_Simple-Main-Effects.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ## ANCOVA
 
