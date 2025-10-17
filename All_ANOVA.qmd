@@ -104,6 +104,10 @@
 
 <video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/4_ANOVA_Repeated/ANOVA_RM_8_QQ-Plot.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
+### Nonparametrics
+
+<video width="600" controls><source src="/jasp-video-library/assets/videos/All_ANOVA/4_ANOVA_Repeated/ANOVA_RM_9_Nonparametrics.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
 ## Bayesian ANOVA Oneway
 
 ### Main Analysis
