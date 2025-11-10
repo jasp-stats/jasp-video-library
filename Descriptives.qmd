@@ -46,3 +46,7 @@
 
 <video width="600" controls><source src="/jasp-video-library/assets/videos/Descriptives/Descriptives_6_Dispersion.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
+### Split Frequency Plot
+
+<video width="600" controls><source src="/jasp-video-library/assets/videos/Descriptives/Descriptives_7_Split-Frequency-Plot.mp4" type="video/mp4">Your browser does not support the video tag.</video>
+
