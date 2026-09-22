@@ -1,5 +1,5 @@
 ---
-title: "Welcome!"
+title: "Welcome"
 ---
 
 Here you will find screen-recordings that demonstrate all sorts of cool analyses and features in JASP.
